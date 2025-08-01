@@ -1,0 +1,1575 @@
+image,q1,q2
+front_pano_000000_002182.jpg,There are potholes in the road surface.,"Yes
+
+There is a dense fog that significantly reduces visibility, which can be considered an obstruction to clear visibility on the road surface.
+"
+front_pano_000000_002283.jpg,The road markings are worn and faded.,"No
+"
+front_pano_000020_001893.jpg,The defect that can be seen from the road is fog.,"Yes
+"
+front_pano_000020_001949.jpg,"Based on the image, it's difficult to definitively identify a specific defect on the road due to the poor visibility. However, there appears to be some road deterioration or damage visible, possibly cracks or potholes. The obscured view prevents a more precise assessment.","Yes
+"
+front_pano_000020_001950.jpg,There is a crack in the windshield of the car.,"Yes
+The road appears wet and potentially covered in debris, obstructing the normal road surface."
+front_pano_000020_001951.jpg,"Based on the image, there appears to be some kind of surface defect in the road. You can notice it because it looks like water is pooled up in the middle of the road.","Yes
+"
+front_pano_000020_001952.jpg,There is vegetation growing out of the top of the bridge.,"Yes
+
+The road appears wet and there are a few dark spots that could be potholes or debris. However, the clarity is poor due to water on the windshield, so it's hard to be certain.
+"
+front_pano_000020_001953.jpg,The defect visible from the road is the smoke or fog obscuring the view ahead.,"No
+"
+front_pano_000020_001954.jpg,"The road surface has significant standing water or is extremely wet, which can create a hydroplaning hazard.","No
+
+It's difficult to definitively identify obstructions on the road surface due to the wet conditions and image quality.
+"
+front_pano_000020_001955.jpg,"It's difficult to be certain due to the image quality and the fog, but it looks like there might be some spalling on the concrete bridge structure. Spalling is a common defect where the surface layer of concrete chips or breaks away.","No
+"
+front_pano_000020_001956.jpg,There is damage/defect on the traffic sign above the bridge.,"No
+
+The road surface appears clear of obstructions, although visibility is reduced."
+front_pano_000020_001957.jpg,"There appears to be some damage to the bridge above the road. There are missing pieces, which is a defect.","No
+"
+front_pano_000020_001958.jpg,"From the road, it's possible to see spalling on the concrete bridge above.","No
+"
+front_pano_000020_002239.jpg,There's significant erosion along the roadside shoulder.,"No
+
+The road surface appears clear of obstructions, though visibility is somewhat reduced due to weather or other factors.
+"
+front_pano_000020_002332.jpg,The road is obscured by fog.,"No
+
+The fog makes it difficult to see the road surface clearly."
+front_pano_000020_002333.jpg,There is a lot of fog on the road.,"No
+
+There are no discernible objects or defects on the road surface itself that are immediately obvious in the image. While the fog impairs visibility, no specific obstructions like potholes, debris, or damage are directly visible.
+"
+front_pano_000020_002334.jpg,The defect I can see from the road in the image is fog. The right side of the road is covered in a dense fog.,"Yes
+The image shows water or debris on the road surface."
+front_pano_000020_002532.jpg,The defect visible on the road is a pothole.,"Yes
+"
+front_pano_000020_002533.jpg,"Based on the image, it looks like the road has a crack in the pavement. The crack appears to be running parallel to the lane lines in the middle of the road.","Yes
+"
+front_pano_000020_002534.jpg,"Based on the image, a visible road defect is a **patch** that has been repaired on the surface of the lane.","Yes
+
+The obscured view makes it difficult to be certain, but there may be water accumulation in the right lane that would pose a minor obstruction."
+front_pano_000020_002535.jpg,There appears to be a large puddle or standing water on the road.,"Yes
+
+Justification: There's a large patch of what appears to be standing water or a puddle on the road surface ahead.
+"
+front_pano_000020_002536.jpg,The road marking on the right-hand side of the road is significantly faded.,"Yes
+
+There appears to be a small, round object in the middle of the road, possibly a piece of debris or road material.
+"
+front_pano_000020_002537.jpg,"From the road, the most obvious defect appears to be the smoke obscuring the road ahead. This significantly reduces visibility.","Yes
+
+There are white road markings that are worn down and fading, creating an obstruction to clear lane guidance. Additionally, there appear to be some objects on the road that may be small potholes or debris, causing minor obstructions on the road surface.
+"
+front_pano_000020_002538.jpg,The defect that can be seen from the road is the faded lane markings.,"No
+
+The only potential obstruction is the mist, but it is not an object on the road surface.
+"
+front_pano_000020_002539.jpg,"From the image, I can see cracks and patches on the road surface.","Yes
+
+There are white lines, patches, and what appears to be a piece of equipment spanning the road.
+"
+front_pano_000020_002540.jpg,"Based on the image, I can see potholes in the road.","Yes
+
+Potholes and patches are visible on the road surface, indicating obstructions.
+"
+front_pano_000020_002541.jpg,"Based on the image, I can see cracking on the road surface. It is visible on the asphalt in front of the car.","Yes
+The image shows an object/obstruction on the road that causes a white box highlight in the area ahead of the vehicle."
+front_pano_000020_002542.jpg,"From the road, it's difficult to definitively identify defects given the conditions. However, the primary defect that can be observed is the poor visibility due to what appears to be fog or heavy mist.","No
+
+There is only water on the road surface, it is not an obstruction."
+front_pano_000020_002543.jpg,The defect that can be seen from the road is **fog**. The fog is heavily obscuring the road ahead.,"No
+
+The original prompt had only one question. Please provide a new prompt that includes two questions, and I will follow all instructions.
+"
+front_pano_000020_002544.jpg,"There is a significant amount of smoke in the air, which can be considered a defect because it impairs visibility.","Yes
+"
+front_pano_000020_002545.jpg,The road defect visible in the image is cracked pavement or potholes on the road.,"Yes
+
+The image shows some haze or smoke in the distance, but on the road surface itself, it is just wet.
+"
+front_pano_000020_002546.jpg,There is a pothole in the road.,"Yes
+
+There appear to be some objects scattered on the road.
+"
+front_pano_000020_002547.jpg,The road marking seems to be deteriorating.,"No
+"
+front_pano_000020_002548.jpg,The white line marking on the road is faded.,"No
+
+The image shows water on the road, which can be considered an obstruction, however, it is part of the road surface environment.
+"
+front_pano_000020_002549.jpg,"There is a large amount of smoke on the right side of the road, which impairs visibility.","No
+"
+front_pano_000020_002550.jpg,"Based on the image, it appears there is a large plume of smoke obstructing the road ahead. This smoke is the defect visible from the road.","Yes
+
+The image appears to be taken during or just after rain, there are reflections and water patches on the road surface which could present an obstruction or hazard.
+"
+front_pano_000020_002551.jpg,"Based on the image, there is a significant amount of thick smoke visible on the right side of the road, potentially indicating a fire or another source of excessive smoke. This presents a clear safety hazard and could be considered a defect or issue affecting road conditions.","No
+
+Justification: While the road appears wet, there are no visible obstructions like potholes, debris, or other hazardous materials on the road surface itself in the image.
+"
+front_pano_000020_002552.jpg,There is a dense cloud of smoke obscuring the view of the road.,"Yes
+
+There appears to be some damage to the road surface visible in the area in front of the car, though it could just be water puddles or debris.
+"
+front_pano_000020_002553.jpg,"From the road, I can see smoke.","No
+"
+front_pano_000020_002554.jpg,There appears to be a vehicle emitting a large amount of smoke on the road.,"No
+
+The road appears clear, although visibility is significantly reduced due to the heavy smoke.
+"
+front_pano_000020_002555.jpg,There is a car on fire on the road.,"Yes
+The road has white paint strips (lane markings) with visible defects."
+front_pano_000020_002556.jpg,"From the road, I can see a car on fire or emitting a large amount of smoke.","No
+
+The main obstruction visible is the smoke, but that's not a road surface defect.
+"
+front_pano_000020_002557.jpg,The car is emitting excessive exhaust/smoke.,"No
+
+There is some blurring on the road surface due to rain or dirt on the camera lens, but no visible obstructions.
+"
+front_pano_000020_002558.jpg,"Based on the image, the defect I can see from the road is the dense smoke obscuring visibility. The smoke is heavy enough to significantly reduce how far a driver can see down the road.","Yes
+"
+front_pano_000020_002559.jpg,"Based on the image, there appears to be a significant amount of **smoke** on the road ahead, which would be a major defect and hazard for drivers.","Yes
+
+Justification: There are objects visible on the road that appear to be debris."
+front_pano_000020_002560.jpg,"The road appears to be covered in smoke, creating a potentially hazardous driving condition.","Yes
+
+The image shows some imperfections on the road."
+front_pano_000020_002561.jpg,The defect that can be seen from the road is smoke.,"Yes
+"
+front_pano_000020_002562.jpg,"Based on the image, there is heavy fog or smoke obscuring the road ahead, reducing visibility significantly. This is a major defect that can be seen from the road.","No
+
+The image is obscured by fog, making it difficult to clearly identify any specific road surface obstructions.
+"
+front_pano_000020_002563.jpg,There appears to be smoke obscuring the road.,"Yes
+There are patches that look like road repair patches visible on the road."
+front_pano_000020_002564.jpg,"From the road, I can see a vehicle emitting a lot of smoke. This could be due to a mechanical issue, a fire, or other problems.","No
+
+The road surface itself appears clear of any obstructions, though visibility is significantly reduced due to the smoke."
+front_pano_000020_002565.jpg,There is a lot of smoke obscuring the road.,"Yes
+"
+front_pano_000020_002566.jpg,"Based on the image, the defect I can see from the road is heavy smoke.","No
+
+The image quality is low, and it's difficult to discern small details on the road surface. However, there aren't any clearly visible obstructions like potholes, debris, or large cracks.
+"
+front_pano_000020_002567.jpg,There's heavy fog obscuring visibility on the road.,"Yes
+"
+front_pano_000020_002568.jpg,There is smoke coming from the right side of the road.,"No
+The white road markings are clearly visible, but no other road objects were detected."
+front_pano_000020_002569.jpg,"From the road, I can see that the road lane markings are faded.","No
+"
+front_pano_000020_002570.jpg,"From the road, there appears to be thick smoke or fog obscuring visibility ahead.","No
+
+The image doesn't show any clearly visible obstructions on the road surface, although visibility is reduced due to the smoke/fog.
+"
+front_pano_000020_002571.jpg,The image shows smoke or fog obscuring visibility on the road.,"No
+The road surface appears clear, but obscured by fog or smoke.
+"
+front_pano_000020_002572.jpg,"From the road, a defect that is visible is the heavy fog.","No
+"
+front_pano_000020_002573.jpg,The defect I can see from the road is heavy fog.,"Yes
+The road markings in the middle of the road are faded and broken."
+front_pano_000020_002574.jpg,"From the image, I can see what looks like a large amount of fog or smoke obstructing visibility on the road. This is the defect visible from the road.","Yes
+
+The road surface appears to have some debris or objects scattered across it, especially towards the left lane.
+"
+front_pano_000020_002575.jpg,"The most prominent defect visible is the presence of dense fog on the road, significantly reducing visibility.","Yes
+"
+front_pano_000020_002576.jpg,There is a large amount of smoke obscuring the road ahead. This constitutes a defect as it significantly reduces visibility and poses a potential hazard to drivers.,"No
+"
+front_pano_000020_002577.jpg,The road defect that is visible is cracking and potentially some deformation of the road surface. The road markings are also degraded.,"Yes
+
+The visibility is heavily reduced due to the fog and some of the detail of the objects that are in the road cannot be observed clearly. Nevertheless, there is a car immediately ahead of the image taking vehicle and a van or bus in the further distance.
+"
+front_pano_000020_002578.jpg,"Based on the image, the defect that is most apparent from the road is the **poor visibility due to the dense fog or smoke**. This is a significant safety concern.","No
+
+The image shows the road surface but due to the fog, it is unclear if there are any obstructions. I cannot confidently say yes based on the image."
+front_pano_000020_002579.jpg,"From the road, I can see smoke. The smoke is causing a significant reduction in visibility.","Yes
+The road markings are faded and there's some debris or markings that could be considered obstructions on the surface.
+"
+front_pano_000020_002580.jpg,The defect that can be seen from the road is smoke.,"Yes
+"
+front_pano_000020_002581.jpg,The road markings are worn and faded.,"Yes
+
+The image shows significant obscuration due to either heavy rain or fog/mist. The density of this obscuration suggests an obstruction or a lack of visibility on the road."
+front_pano_000020_002582.jpg,"Based on the image, the road markings are faded.","No
+"
+front_pano_000020_002583.jpg,The defect that can be seen from the road is poor visibility due to smoke or fog.,"Yes
+"
+front_pano_000020_002584.jpg,The defect that can be seen from the road is heavy smoke or fog obscuring visibility.,"Yes
+
+The arrows painted on the road are partially obscured by what appears to be the heavy smoke or fog."
+front_pano_000020_002585.jpg,"Based on the image, it looks like there is smoke obscuring the road ahead. This could be a defect as it impairs visibility and could be caused by a fire or other hazard.","No
+"
+front_pano_000020_002586.jpg,"From the road, I can see a large cloud of smoke.","Yes
+
+The white markings on the road appear to have areas of obstruction."
+front_pano_000020_002587.jpg,"Based on the image, the defect I can see from the road is a significant patch of fog. The fog is so thick it greatly reduces visibility.","No
+
+The image shows a road surface that appears clear of obstructions, although visibility is reduced due to fog.
+"
+front_pano_000020_002588.jpg,"Based on the image, the defect that is visible from the road is **water on the road**. You can see the wet pavement and reflections on the road surface. There is also heavy fog covering parts of the road which contributes to poor visibility.","Yes
+
+The white line markings are incomplete, and there's an object with some white reflections which could be an obstruction.
+"
+front_pano_000020_002589.jpg,"There is a crack in the road surface, visible in the lower left of the image.",No
+front_pano_000020_002590.jpg,There is smoke on the road.,"No
+"
+front_pano_000020_002591.jpg,There is smoke on the road.,"Yes
+
+The smoke obstructs the view of the road surface."
+front_pano_000020_002592.jpg,"The defect that can be seen from the road is smoke, possibly caused by a fire.","No
+"
+front_pano_000020_002593.jpg,"From the road, I can see a potential defect: dense fog is obstructing visibility.","No
+"
+front_pano_000020_002594.jpg,There is a large area of low visibility due to a smoke cloud on the road.,"No
+"
+front_pano_000020_002595.jpg,"Based on the image, the major defect visible from the road is a large cloud of smoke obscuring the right lane of the highway. This could be due to a fire, an accident, or another issue.","Yes
+"
+front_pano_000020_002596.jpg,"Based on the image, a significant defect visible from the road is the large amount of dust or smoke obscuring visibility on the road. It creates a haze and makes it difficult to see the other vehicles and the road clearly.","No
+
+Justification: The image shows dust or smoke obstructing the view of the road surface, but no specific obstructions like potholes or debris are discernible.
+"
+front_pano_000020_002597.jpg,The defect that is visible from the road is smoke.,"Yes
+"
+front_pano_000020_002598.jpg,There is a large cloud of smoke or fog obscuring the road ahead.,"No
+"
+front_pano_000020_002599.jpg,"From the road, the defect I can see is smoke obscuring the view.","No
+
+Justification: The smoke is obscuring the view, but I can't see any obstructions *on* the road surface itself. The smoke is an atmospheric obstruction, not a physical one on the road.
+"
+front_pano_000020_002600.jpg,There is smoke obscuring the road.,"Yes
+The smoke makes it hard to see the road."
+front_pano_000020_002601.jpg,"Based on the image, the defect I can see from the road is smoke.","Yes
+"
+front_pano_000020_002602.jpg,"From the road, the defect I can see is the significant amount of smoke obscuring visibility ahead.","No
+"
+front_pano_000020_002603.jpg,"From the road, the obvious defect is the dense smoke or fog obscuring the view and potentially reducing visibility.","Yes
+"
+front_pano_000020_002604.jpg,"From the road, the defect you can see is the heavy smoke or fog obscuring the view. This is creating a significant visibility issue.","No
+"
+front_pano_000020_002605.jpg,There's a large cloud of dust or smoke obscuring the view on the road. This significantly reduces visibility and is a road defect.,"Yes
+"
+front_pano_000020_002606.jpg,"There appears to be a lot of smoke obscuring the road ahead. This is a major hazard that could be caused by an accident, fire, or other incident.","No
+
+The primary obstruction is the smoke, but not a physical obstruction on the road surface itself.
+"
+front_pano_000020_002607.jpg,"Based on the image, there is a significant amount of smoke or dust cloud on the right side of the road. This is the defect that is visible from the road.","Yes
+The smoke cloud on the right may be considered an obstruction."
+front_pano_000020_002608.jpg,"Based on the image, the defect visible from the road is smoke. The large cloud of gray smoke is obscuring the right side of the road.","Yes
+There is a lot of dark patching on the road surface, the lane markings are worn, and there appears to be some kind of object being towed in front of the car."
+front_pano_000020_002609.jpg,"From the road, the defect I can see is the significant cloud of smoke that is obscuring visibility on the right-hand side of the road.","No
+The road surface itself appears clear of obstructions, although visibility is heavily reduced by the smoke.
+"
+front_pano_000020_002610.jpg,"From the image, it appears that there is a patch of very dense fog or possibly smoke obscuring visibility on the road.","No
+The image shows road markings and a vehicle ahead, but no specific obstructions are clearly visible on the road surface.
+"
+front_pano_000020_002611.jpg,The defect that can be seen from the road is the presence of smoke obscuring the view.,"Yes
+"
+front_pano_000020_002612.jpg,"Based on the image, there appears to be very poor visibility due to dense fog or smoke on the road. This severely reduces the distance a driver can see ahead, posing a significant safety hazard.
+","No
+
+Justification:
+While the image shows road markings, there are no clearly visible obstructions like potholes, debris, or other hazards directly on the road surface. The road appears relatively clear, though visibility is severely limited.
+"
+front_pano_000020_002613.jpg,"From the road, I can see that the road markings are damaged or faded.","Yes
+"
+front_pano_000020_002614.jpg,There is fog on the road.,"No
+"
+front_pano_000020_002615.jpg,There appears to be heavy smoke obscuring visibility on the road. This can be considered a defect as it impairs safe driving conditions.,"No
+"
+front_pano_000020_002616.jpg,"From the road, I can see smoke obscuring the view.","Yes
+The road surface is obscured by smoke, which can be considered an obstruction."
+front_pano_000020_002617.jpg,"From the road, I can see road surface wear.","Yes
+There is smoke and a bus in the picture."
+front_pano_000020_002618.jpg,There is a thick cloud of smoke obscuring the road ahead.,"Yes
+"
+front_pano_000020_002619.jpg,"Based on the image, there is a patch of very dense fog or smoke obscuring the view ahead on the road. This is a significant hazard and a defect in road conditions that is clearly visible.","No
+
+The image shows a road with lane markings, but no clearly visible obstructions on the road surface itself. The fog/smoke is an obstruction to visibility, but not a physical object on the road."
+front_pano_000020_002620.jpg,"Based on the image, the defect visible from the road is the presence of **smoke**. It's quite dense and obscures the view ahead.","No
+"
+front_pano_000020_002621.jpg,"Based on the image, there is a large amount of smoke on the road. This constitutes a significant visibility defect.","Yes
+The image shows what appears to be debris or residue marking on the road, although its precise nature is unclear.
+"
+front_pano_000020_002622.jpg,The defect that I can see from the road is the faded road markings.,"No
+"
+front_pano_000020_002623.jpg,The defect that can be seen from the road is a pothole.,"Yes
+The road is not clear, there are visible potholes and some other minor defects."
+front_pano_000020_002624.jpg,There is smoke present on the road.,"No
+"
+front_pano_000020_002625.jpg,There is dense smoke in the right side of the road.,"No
+"
+front_pano_000020_002626.jpg,The road has missing road markings.,"Yes
+"
+front_pano_000020_002627.jpg,The defect that can be seen from the road is missing road markings.,"No
+"
+front_pano_000020_002628.jpg,The defect that can be seen from the road is a crack in the pavement.,"Yes
+"
+front_pano_000020_002629.jpg,It appears that there is poor visibility due to a dense cloud of smoke or fog on the right side of the road.,"No
+
+The road surface ahead appears clear, although there is some indistinct marking.
+"
+front_pano_000020_002630.jpg,"Based on the image, there appears to be a large cloud of smoke obscuring the road ahead. This is a significant hazard and constitutes a defect that is visible from the road.","Yes
+"
+front_pano_000020_002631.jpg,There is a large cloud of smoke obscuring the road.,"Yes
+
+The road surface ahead is obscured by smoke.
+"
+front_pano_000020_002632.jpg,There is heavy smoke on the road.,"Yes
+The lane markings appear damaged or faded in places.
+"
+front_pano_000020_002633.jpg,"Based on the image, there appears to be a significant amount of smoke or haze obstructing visibility on the road. This could be considered a defect in the sense that it impairs safe driving conditions.","Yes
+
+The presence of what appears to be road markings or lane dividers could also be interpreted as a type of obstruction, depending on their condition.
+"
+front_pano_000020_002634.jpg,"Based on the image, the defect visible from the road is likely smoke obscuring the view.","No
+"
+front_pano_000020_002635.jpg,There appears to be a large cloud of smoke obscuring the road. This is a defect as it significantly reduces visibility.,"No
+"
+front_pano_000020_002636.jpg,"From the image, I can see a defect in the road markings: the white lane markings appear faded or worn out in several places. Additionally, the right side of the road is covered in mist, fog, and road debris.","Yes
+
+The mist, fog, and road debris are obscuring the road surface."
+front_pano_000020_002637.jpg,There is a cloud of smoke obscuring the road ahead.,"No
+"
+front_pano_000020_002638.jpg,The painted road markings are faded.,"No
+
+The image doesn't show any clear obstructions on the road surface itself.
+"
+front_pano_000020_002639.jpg,The defect that can be seen from the road is a missing or damaged lane marking.,"No
+"
+front_pano_000020_002640.jpg,The road defect that I can see is faded lane markings.,"Yes
+The road surface is partially obscured by what appears to be water or some other substance, creating an obstruction to visibility."
+front_pano_000020_002641.jpg,"Based on the images, it appears there is heavy smoke obstructing the road ahead. This is a significant defect that impacts visibility and safety for drivers.","No
+
+The image does not clearly show any specific obstructions (like potholes, debris, etc.) directly on the road surface.
+"
+front_pano_000020_002642.jpg,There is a lot of smoke on the road.,"No
+"
+front_pano_000020_002643.jpg,"Based on the image, the defect that can be seen from the road is fog.","Yes
+
+There is a vehicle directly in front of the camera, which can be considered an obstruction.
+"
+front_pano_000020_002644.jpg,"From the road, the defect I can see is the smoke in the distance.","Yes
+The thick smoke in the distance is an obstruction to visibility on the road.
+"
+front_pano_000020_002645.jpg,"From the road, I can see a defect in the form of faded or damaged road markings.","Yes
+
+There is a dense cloud of something obstructing the view of the road surface."
+front_pano_000020_002646.jpg,The defect that can be seen from the road is a large cloud of smoke.,"Yes
+
+The smoke cloud obstructs the view of the road.
+"
+front_pano_000020_002647.jpg,The road marking on the right is faded.,"No
+"
+front_pano_000020_002648.jpg,"From the road, the defect that I can see is the poor visibility caused by heavy fog or smoke.","Yes
+"
+front_pano_000020_002649.jpg,The road markings are faded.,"Yes
+There are some dark patches or objects on the road surface ahead of the car."
+front_pano_000020_002650.jpg,"From the road, I can see a dense cloud of smoke obscuring the view.","Yes
+
+The white paint markings on the road are potentially obstructions to driving. Also there may be road debris in the area obscured by smoke."
+front_pano_000020_002651.jpg,"Based on the image, there appears to be thick smoke obscuring the road ahead. This would be considered a significant defect, as it severely limits visibility and poses a safety hazard to drivers.","Yes
+
+The white line markings on the road have areas where they are chipped/missing, showing the underlying road surface. Also, some objects are scattered on the road surface."
+front_pano_000020_002652.jpg,"From the road, I can see that the road markings are faded.","No
+
+The road appears clear of obstructions, though visibility is partially obscured by what seems to be spray from passing vehicles or rainfall."
+front_pano_000020_002653.jpg,The road has cracked lines.,"Yes
+"
+front_pano_000020_002654.jpg,The road has fading lane markings.,"No
+
+The road surface is visible, and no obstructions are apparent.
+"
+front_pano_000020_002655.jpg,"From the road, the main defect I can see is the poor visibility due to fog or rain. It obscures the view ahead, making it difficult to see other vehicles and road markings.","No
+
+The image shows a clear road surface with lane markings, but no visible obstructions.
+"
+front_pano_000020_002656.jpg,"Based on the image, the road defect that is visible is **cracking** in the pavement. You can see it in the center and right lanes of the road.","Yes
+
+There is a vehicle (possibly a truck or a bus) ahead, which can be considered an obstruction on the road surface.
+"
+front_pano_000020_002657.jpg,"There appears to be road spray, potentially affecting visibility.","No
+
+Road spray may make it seem there are obstructions, but the presence of a vehicle in front suggests the road is still passable."
+front_pano_000020_002658.jpg,"Based on the image, the defect that can be seen from the road is a missing or faded lane marking. You can see where the lane marking should be (a white line), but it is not clearly visible.","No
+"
+front_pano_000020_002659.jpg,"From the road, I can see thick fog or smoke obscuring visibility. This is a definite defect in driving conditions.","Yes
+The road markings appear faded or worn in places. Also, the surface appears to be affected by moisture/rain making it harder to see the road."
+front_pano_000020_002660.jpg,"Based on the image, there's a significant patch of smoke or fog obscuring the view of the road ahead. This could be considered a defect as it severely reduces visibility, posing a danger to drivers.","No
+
+The main obstruction is smoke or fog, not a physical object on the road surface.
+"
+front_pano_000020_002661.jpg,The defect that can be seen from the road is the smoke obscuring the view.,"Yes
+"
+front_pano_000020_002662.jpg,There is a lot of smoke obscuring visibility on the road.,"Yes
+"
+front_pano_000020_002663.jpg,"From the image, I can see that there is a large cloud of smoke on the road, which is a defect.","Yes
+
+The smoke cloud obscures the road.
+"
+front_pano_000020_002664.jpg,"From the road, the defect I can see is the thick fog, which drastically reduces visibility.","No
+"
+front_pano_000020_002665.jpg,"Based on the image, there appears to be a large cloud of smoke obscuring the road ahead. This is a significant defect that would impede visibility and potentially pose a hazard to drivers.","Yes
+
+The image is obscured by smoke, however, there do appear to be vehicles present, which could be seen as an obstruction."
+front_pano_000020_002666.jpg,There is a lot of smoke on the road.,"Yes
+"
+front_pano_000020_002667.jpg,The defect that can be seen from the road is heavy smoke.,"No
+"
+front_pano_000020_002668.jpg,The defect visible from the road is heavy fog.,"No
+
+The road surface is obscured by fog, but there are no explicitly visible obstructions.
+"
+front_pano_000020_002669.jpg,"From the road, the most apparent defect is the area of reduced visibility due to a large cloud of something that obscures the view ahead. This could be smoke, dust, fog, or another type of airborne obstruction.","Yes
+
+The presence of debris or splattered liquid on the road surface in front of the vehicle indicates a potential obstruction."
+front_pano_000020_002670.jpg,"Based on the image, a significant defect visible from the road is the **reduced visibility due to a large cloud of dust or smoke.** This obstruction creates a safety hazard for all drivers on the road.","Yes
+
+There are dark spots or debris visible on the road surface ahead of the vehicle, as well as some spray.
+"
+front_pano_000020_002671.jpg,There is a lot of smoke obscuring the road. This is a clear defect that can be seen.,"Yes
+
+The large amounts of smoke on the road surface is an obstruction."
+front_pano_000020_002672.jpg,There are potholes on the road.,"Yes
+
+There appear to be some dark objects on the road surface that could be obstructions or debris.
+"
+front_pano_000020_002673.jpg,"From the road, I can see a large cloud of smoke obscuring the view ahead.","No
+
+The only potential obstructions are the lane markings and what seems to be debris on the road surface.
+"
+front_pano_000020_002674.jpg,"Based on the image, the defect visible from the road is poor visibility due to the thick fog or smoke obscuring the road ahead.","No
+The fog greatly reduces visibility but it is not clear obstructions are there."
+front_pano_000020_002675.jpg,"From the road, the defect that can be seen is missing road markings.","Yes
+
+There appears to be something on the road surface ahead of the vehicle, possibly debris or an obstruction. It's difficult to say definitively what it is due to the blurriness and overall image quality.
+"
+front_pano_000020_002676.jpg,"From the image, the road defect that can be seen is smoke.","No
+"
+front_pano_000020_002677.jpg,"There is a lot of smoke, which is a potential hazard on the road.","No
+"
+front_pano_000020_002678.jpg,"Based on the image, it appears there is a large amount of smoke obstructing the road ahead, creating a visibility hazard for drivers.","No
+
+There are no obstructions visible on the road surface, the only thing I can see is a lot of smoke."
+front_pano_000020_002679.jpg,The defect that can be seen from the road is the excessive smoke or emissions coming from the vehicle in front.,"No
+"
+front_pano_000020_002680.jpg,The most obvious defect visible from the road is the dense smoke obscuring the road.,"Yes
+"
+front_pano_000020_002681.jpg,"The defect I can see from the road is the heavy smoke on the right-hand side of the road, obscuring visibility.","Yes
+
+There appear to be small obstructions on the road, possibly debris or small objects, slightly ahead of the car's hood.
+"
+front_pano_000020_002682.jpg,The defect I can see from the road is a large amount of smoke obscuring the road ahead.,"Yes
+"
+front_pano_000020_002683.jpg,There is smoke obscuring visibility on the road.,"No
+There are no visible obstructions on the road surface itself. The smoke impairs visibility, but it is not a physical obstruction on the road."
+front_pano_000020_002684.jpg,"Based on the image, there is smoke coming from the white car on the right side of the road. This could indicate a mechanical issue or a fire.
+","No
+"
+front_pano_000020_002685.jpg,"From the road, you can see excessive smoke coming from a car. This is a defect.","Yes
+"
+front_pano_000020_002686.jpg,"Based on the image, the most obvious defect is the large amount of smoke obscuring the road and the car next to the car with the camera.  This creates a serious visibility hazard.","Yes
+
+The road appears to be obstructed by some debris, marked with the white segmentation."
+front_pano_000020_002687.jpg,"Based on the images provided, there appears to be a **vehicle on fire** as indicated by the large plume of smoke. This constitutes a significant defect or hazard visible from the road.","Yes
+The image shows some debris and potential obstructions on the road surface, specifically in the area between the camera vehicle and the truck.
+"
+front_pano_000020_002688.jpg,"From the road, a car is on fire, producing a lot of smoke.","Yes
+
+A white or yellow object seems to be lying in the road just ahead of the truck.
+"
+front_pano_000020_002689.jpg,There is a car on fire.,"Yes
+There appears to be debris scattered on the road in front of the vehicle with the camera."
+front_pano_000020_002690.jpg,"From the image, I can see heavy smoke obscuring the road ahead. This is a significant visibility defect that poses a safety hazard.","Yes
+
+There appear to be some small pieces of debris or objects scattered on the road surface ahead of the car, in the lane.
+"
+front_pano_000020_002691.jpg,"From the road, I can see a car emitting a large amount of smoke. This could be a sign of a mechanical failure or a fire.","No
+"
+front_pano_000020_002692.jpg,There is smoke on the road.,"No
+"
+front_pano_000020_002693.jpg,The defect that can be seen from the road is smoke.,"No
+"
+front_pano_000020_002694.jpg,There is significant smoke on the road.,"No
+"
+front_pano_000020_002695.jpg,The defect that can be seen from the road is heavy smoke.,"Yes
+"
+front_pano_000020_002696.jpg,"From the road, I can see a large cloud of smoke obscuring the view ahead.","No
+
+The road surface itself appears clear of obstructions, but visibility is severely limited by the smoke.
+"
+front_pano_000020_002697.jpg,"Based on the image, there is a cloud of smoke or possibly a fire on the side of the road, which poses a potential hazard.","No
+
+The image shows some debris or markings on the road surface, which could be considered minor obstructions.
+"
+front_pano_000020_002698.jpg,The heavy smoke on the road is a defect. It significantly reduces visibility and poses a safety hazard.,"Yes
+
+Justification: The smoke is an obstruction to visibility on the road surface.
+"
+front_pano_000020_002699.jpg,"Based on the image, there appears to be a lot of smoke or fog obscuring the road ahead. This significantly reduces visibility and constitutes a major safety hazard, making it a defect that can be observed from the road.","No
+
+The smoke/fog is not an obstruction on the road surface, it's an atmospheric condition reducing visibility.
+"
+front_pano_000020_002700.jpg,"From the road, I can see a crack or a break in the road surface ahead. There also appears to be quite a bit of smoke or fog obscuring the road.","Yes
+"
+front_pano_000020_002701.jpg,"From the road, you can see a large amount of smoke obscuring the view. This could be a defect like a fire or a vehicle emitting excessive exhaust.","No
+
+There is heavy smoke obstructing the view, but no visible obstructions are apparent on the road surface.
+"
+front_pano_000020_002702.jpg,"Based on the image, a defect visible from the road is the thick black smoke.","Yes
+
+Justification: The image shows objects in the center of the lane in front of the vehicle that appear to be cables. It's also difficult to make out the road surface due to the smoke, which itself creates an obstruction to visibility.
+"
+front_pano_000020_002703.jpg,The defect that can be seen from the road is cracked road markings.,"Yes
+The image shows some broken or missing lines on the road. Also the dense fog.
+"
+front_pano_000020_002704.jpg,"From the road, a significant defect is visible: **heavy smoke** that obscures the road ahead. This is a major safety hazard.",No
+front_pano_000020_002705.jpg,The defect visible from the road is the fog. It severely reduces visibility.,"Yes
+"
+front_pano_000020_002706.jpg,"Based on the image, the defect that can be seen from the road is smoke/fog. It seems to be heavily obscuring the visibility on the road.","Yes
+The smoke and the truck in the distance both pose obstructions to visibility and potentially to travel.
+"
+front_pano_000020_002707.jpg,"Based on the image, the defect that is most apparent from the road is the excessive exhaust smoke being emitted from the vehicle in front.","No
+
+The image has poor visibility due to smoke, but the road surface itself does not appear to have any clearly visible obstructions based on the available detail.
+"
+front_pano_000020_002708.jpg,The road is partially obscured by fog.,"No
+The road surface is visible and clear of obstructions, although there is fog obscuring the distance."
+front_pano_000020_002709.jpg,"From the road, a potential defect that can be observed is the heavy fog. It obscures visibility significantly.","No
+
+Heavy fog and a vehicle partially obstructing the view make it impossible to clearly identify any obstructions on the road surface.
+"
+front_pano_000020_002710.jpg,"From the road, the defect that is visible is smoke or fog.","Yes
+The smoke obstructs the view of the road ahead."
+front_pano_000020_002711.jpg,There appears to be smoke in the distance obscuring visibility on the road.,"No
+"
+front_pano_000020_002712.jpg,There is a patch of dense fog or smoke obstructing visibility on the right side of the road.,"Yes
+
+There appear to be puddles on the road surface."
+front_pano_000020_002713.jpg,"The defect that can be seen from the road is heavy smoke, which is causing reduced visibility.","No
+"
+front_pano_000020_002714.jpg,"From the road, I can see a possible traffic accident leading to smoke.","No
+
+The road surface is visible, and there are no apparent obstructions."
+front_pano_000020_002715.jpg,"There is a lot of smoke on the road, which can be considered a defect from a safety perspective.","Yes
+"
+front_pano_000020_002716.jpg,The defect that can be seen from the road is heavy fog.,"Yes
+
+The image shows some small blue objects or debris scattered on the road surface.
+"
+front_pano_000020_002717.jpg,"Based on the image, the most prominent defect visible from the road is the dense smoke obscuring the view ahead, potentially originating from a fire or vehicle malfunction.","No
+
+The image shows a fairly clear road surface ahead, despite the presence of heavy smoke/fog.
+"
+front_pano_000020_002718.jpg,"There is a lot of smoke on the road, reducing visibility.","No
+
+Smoke is not on the road surface."
+front_pano_000020_002719.jpg,"The defect that can be seen from the road is a faded or worn-out road marking, specifically the painted line separating lanes.","Yes
+The road is covered in fog, which can be considered an obstruction to visibility."
+front_pano_000020_002720.jpg,"From the road, I can see that there is a large plume of smoke.","No
+"
+front_pano_000020_002721.jpg,There appears to be a significant amount of smoke obscuring visibility on the road ahead.,"Yes
+The smoke severely reduces visibility, and there may be debris from a collision or other road obstructions."
+front_pano_000020_002722.jpg,There appears to be potential road damage or a repair patch on the road ahead.,"Yes
+"
+front_pano_000020_002723.jpg,The defect visible from the road is the faded lane markings.,"No
+"
+front_pano_000020_002724.jpg,The defect that can be seen from the road is road marking wear. The white lines on the road are faded and worn.,"No
+
+The image is partially obscured by a mist, but based on what is visible, there are no obvious obstructions on the road surface.
+"
+front_pano_000020_002725.jpg,The road has a broken lane marking.,"Yes
+"
+front_pano_000020_002726.jpg,"From the road, I can see heavy smoke.","Yes
+There are some white road markings."
+front_pano_000020_002727.jpg,"From the road, I can see a significant amount of smoke.","Yes
+
+The smoke is obscuring vision and is an obstruction."
+front_pano_000020_002728.jpg,"From the image, there is a significant amount of what appears to be smoke or a dust cloud obscuring the road ahead. This greatly reduces visibility and would be considered a significant defect or hazard to driving conditions.","No
+"
+front_pano_000020_002729.jpg,There appears to be heavy smoke obscuring the road ahead. This is a serious road hazard.,"Yes
+The image shows rain/water droplets on the windshield and possibly on the road surface, which could be considered an obstruction to clear visibility. Also, there are vehicles ahead including a large truck."
+front_pano_000020_002730.jpg,"There appears to be thick smoke obscuring the road ahead, significantly reducing visibility. This poses a serious hazard.","No
+
+The image shows lane markings on the road, but no visible obstructions. The poor visibility due to the smoke could hide potential obstructions, though.
+"
+front_pano_000020_002731.jpg,"Based on the image, there appears to be dense smoke obscuring the road ahead. This smoke is the defect that is visible from the road.","No
+
+The only ""obstructions"" are other vehicles and road markings, but those aren't defects.
+"
+front_pano_000020_002732.jpg,The road marking is faded.,"Yes
+
+There appears to be a patch of something on the road surface, slightly ahead of the car and to the left. Also, heavy fog is an obstruction to visibility."
+front_pano_000020_002733.jpg,"Based on the image, it appears there is a large area of fog or smoke obscuring the road ahead. This significantly reduces visibility and is a hazardous defect.","No
+"
+front_pano_000020_002734.jpg,"Based on the image, a defect that can be seen from the road is the fog.","No
+"
+front_pano_000020_002735.jpg,It appears there is significant fog obscuring visibility on the road.,"No
+Fog can be considered an obstruction, but not in the sense of a physical object blocking the road surface."
+front_pano_000020_002736.jpg,"Based on the image, the defect that can be seen on the road is cracking.","Yes
+There is fog obscuring the road."
+front_pano_000020_002737.jpg,"From the road, I can see that the road marking arrows are faded.","Yes
+"
+front_pano_000020_002738.jpg,The road marking arrow is faded.,"No
+"
+front_pano_000020_002739.jpg,The road markings are faded or damaged.,"No
+
+There are no objects that definitively obstruct the road surface. The visible markings are faded/damaged, and there is a vehicle in front but no other tangible obstructions are visible."
+front_pano_000020_002740.jpg,"The defect visible from the road is road damage/wear. The arrows on the road appear faded and worn, indicating deterioration.","Yes
+
+There is a visible white line obstruction on the road surface.
+"
+front_pano_000020_002741.jpg,"From the road, I can see that the lane markings are faded and worn.","No
+"
+front_pano_000020_002742.jpg,"From the road, I can see a road sign on the left. It looks like a chevron sign to warn of a sharp turn.","Yes
+
+There are white arrows painted on the road surface, which can be considered obstructions to the flat surface."
+front_pano_000020_002743.jpg,The defect that can be seen from the road is the thick fog that is obstructing visibility.,"Yes
+"
+front_pano_000020_002744.jpg,The road markings are faded.,"No
+
+Justification:
+Although the visibility is obscured by fog, there are no clear obstructions visible on the road surface in the image."
+front_pano_000020_002745.jpg,"From the road, a defect that can be seen is the damaged or faded road markings, particularly the large white arrows directing traffic flow. These markings appear worn and less visible, which could potentially cause confusion for drivers.","No
+
+The image shows a clear road surface, with no apparent obstructions.
+"
+front_pano_000020_002746.jpg,"From the image, the most prominent defect I can see on the road is a faded or worn-out road marking. Specifically, the white directional arrow on the left lane appears to be weathered or partially missing.","Yes
+
+The visibility is obscured by what appears to be rain or water on the camera lens, which is partially obstructing the view of the road."
+front_pano_000020_002747.jpg,"In the original image, a patch of dense fog obscures visibility on the road.","Yes
+
+The image shows road markings on the surface.
+"
+front_pano_000020_002748.jpg,"Based on the image, it appears there is smoke obstructing the road ahead. This is a significant defect as it drastically reduces visibility and poses a serious safety hazard to drivers.","Yes
+
+The white lane markings on the road surface appear worn and faded.
+"
+front_pano_000020_002749.jpg,"From the image, it's clear that there is a significant amount of smoke obscuring the road ahead. This severely limits visibility and represents a major road defect and hazard.","No
+
+The primary defect in the image is the reduced visibility due to smoke, not a physical obstruction on the road surface itself.
+"
+front_pano_000020_002750.jpg,"Based on the image, there appears to be poor visibility due to a plume of either smoke or dust obstructing the road ahead. This is a significant defect as it severely limits the driver's ability to see and react to potential hazards.","No
+
+The primary issue is visibility, not road surface obstructions.
+"
+front_pano_000020_002751.jpg,The defect visible from the road is the missing/broken streetlight.,"No
+"
+front_pano_000020_002752.jpg,The road markings are faded.,"Yes
+The image is blurry due to rain, but there could potentially be something obstructing the road surface. It is hard to see."
+front_pano_000020_002753.jpg,"There appears to be water pooling on the road surface, creating a potential hazard.","No
+
+The only thing that might appear as an obstruction is the standing water on the road, but it isn't a physical obstruction."
+front_pano_000020_002754.jpg,"From the image, I can see a cloud of smoke obscuring the road ahead. This constitutes a visibility defect.","No
+
+There is a lot of spray and smoke which obscures details. I cannot definitively say there are obstructions beyond the truck ahead."
+front_pano_000020_002755.jpg,The most prominent defect visible is the heavy fog or smoke obscuring the road ahead. This significantly reduces visibility.,"Yes
+"
+front_pano_000020_002756.jpg,The image shows a large patch of fog on the road.,"Yes
+"
+front_pano_000020_002757.jpg,There appears to be a significant amount of smoke obscuring visibility on the road.,"No
+"
+front_pano_000020_002758.jpg,There is a dense fog obscuring the road.,"No
+
+The image shows a clear road surface ahead.
+"
+front_pano_000020_002759.jpg,"There appears to be a pothole or a significant road defect ahead, indicated by the dark patch on the road in the middle of the lane. Additionally, there's a cloud of dark smoke or fog obscuring the road further ahead.","Yes
+"
+front_pano_000020_002760.jpg,The image shows smoke coming from the roadside.,"No
+
+Justification:
+The road surface appears clear of any obstructions in the provided image."
+front_pano_000020_002761.jpg,"From the road, I can see the road marking paint is worn in some areas.","No
+
+The image shows a clear road with some road markings, but no visible obstructions.
+"
+front_pano_000020_002762.jpg,The road has cracks.,"Yes
+
+The road surface has cracks.
+"
+front_pano_000020_002763.jpg,The road defect that can be seen from the road are the faded road markings.,"No
+"
+front_pano_000020_002764.jpg,"There seems to be an issue with reduced visibility, possibly due to heavy rain or fog. This is a significant defect as it impedes the driver's ability to see the road and other vehicles, increasing the risk of accidents.","No
+"
+front_pano_000020_002765.jpg,"Based on the image, the road markings are faded and worn.","Yes
+"
+front_pano_000020_002766.jpg,The most significant defect visible from the road is the poor visibility due to dense fog.,"Yes
+There are some orange traffic cones behind the blue truck."
+front_pano_000020_002767.jpg,The white line on the road to the right of the truck is faded.,"No
+
+The image shows a road with faded lane markings, but there are no visible obstructions like potholes, debris, or other physical impediments on the road surface itself.
+"
+front_pano_000020_002768.jpg,"From the road, the defect visible is the faded road markings.","No
+
+The image shows road markings, but no obstructions on the road surface itself.
+"
+front_pano_000020_002769.jpg,"From the road, I can see faded or worn road markings (the chevron markings on the left side of the road).","Yes
+
+There is a vehicle in the middle of the lane ahead. While not a permanent obstruction, it is obstructing the road."
+front_pano_000020_002770.jpg,The road marking on the left side of the road is faded and damaged.,"Yes
+The water on the road surface is obstructing the view of the road."
+front_pano_000020_002771.jpg,It appears that there is a significant amount of road spray or some other visibility-reducing obstruction affecting the clarity of the view ahead. This could be a major safety concern.,"No
+
+The provided context and the image do not clearly show any physical obstructions on the road surface. The poor visibility is caused by road spray or similar conditions, but I don't see any debris or obstacles.
+"
+front_pano_000020_002772.jpg,The painted road markings are worn.,"No
+"
+front_pano_000020_002773.jpg,"From the road, I can see that the road marking lines are faded.","Yes
+"
+front_pano_000020_002774.jpg,The road markings are faded.,"Yes
+There appears to be an obstruction in the middle of the road, possibly some debris or a shadow giving that impression."
+front_pano_000020_002775.jpg,"Based on the image, there appears to be reduced visibility due to fog.","No
+"
+front_pano_000020_002776.jpg,"There is a significant amount of fog on the road, which is a defect impacting visibility.","No
+"
+front_pano_000020_002777.jpg,The defect that can be seen from the road is the worn road markings.,"Yes
+There is a cone on the left side of the road."
+front_pano_000020_002778.jpg,The road marking has faded paint.,"Yes
+
+There's road work equipment on the left.
+"
+front_pano_000020_002779.jpg,"From the road, I can see missing road markings.","No
+"
+front_pano_000020_002780.jpg,"Based on the image, the road marking is faded.","No
+
+The road surface seems clear of obstructions, although visibility is reduced due to weather conditions.
+"
+front_pano_000020_002781.jpg,There is a broken crash barrier on the side of the road.,"Yes
+There appears to be significant water or a splash on the windshield or camera, which obstructs the view."
+front_pano_000020_002782.jpg,The road marking is damaged on the left.,"No
+"
+front_pano_000020_002783.jpg,The defect that can be seen from the road is fog.,"Yes
+"
+front_pano_000020_002784.jpg,The defect that can be seen from the road is fog.,"No
+"
+front_pano_000020_002785.jpg,"From the image, it is possible to see fog on the road.","No
+
+The fog obscures details on the road, but there are no clearly visible obstructions.
+"
+front_pano_000020_002786.jpg,Visibility is reduced due to fog.,"Yes
+"
+front_pano_000020_002787.jpg,The defect visible from the road is fog.,"Yes
+The road surface appears to be obscured by fog and possibly water.
+"
+front_pano_000020_002788.jpg,"Based on the image, it appears that there is an issue with the windshield; it has some sort of grime or water spots that are obscuring the view. This is a defect that would be visible from the road, as it impacts the driver's visibility.","No
+"
+front_pano_000020_002789.jpg,It's difficult to definitively identify a road defect due to the poor visibility (possibly fog or heavy rain) in the image.,"No
+
+Due to the low visibility, I cannot confirm with certainty that there is anything obstructing the road. The fog obscures the surface.
+"
+front_pano_000020_002790.jpg,There is a visible defect on the road: a possible pothole.,"Yes
+"
+front_pano_000020_002791.jpg,It appears there is a crack or defect in the windshield.,"No
+"
+front_pano_000020_002792.jpg,The defect that I can see from the road is standing water or flooding on the road.,"No
+"
+front_pano_000020_002793.jpg,A shopping cart is abandoned on the side of the road.,"Yes
+
+A shopping cart is on the road."
+front_pano_000020_002794.jpg,The tree appears to be dead or heavily damaged.,"Yes
+
+There are objects on the road near the red-striped section."
+front_pano_000020_002795.jpg,"The road surface on the right side appears to be damaged or has a significant defect, as it is obscured by fog or some other material that is not present on the left side of the road.","Yes
+
+There is a truck in the distance on the road."
+front_pano_000020_002796.jpg,The defect that can be seen from the road is a crack in the windshield.,"Yes
+"
+front_pano_000020_002797.jpg,There is fog on the road.,"No
+"
+front_pano_000020_002798.jpg,There are potholes in the road.,"Yes
+The road appears to have debris or potholes visible in the distance ahead of the vehicle.
+"
+front_pano_000020_002799.jpg,There is a pothole.,"Yes
+
+There's what looks like a pothole or some other kind of depression/damage on the road surface.
+"
+front_pano_000020_002800.jpg,There appears to be standing water on the road surface ahead.,"Yes
+
+There is standing water on the road surface."
+front_pano_000020_002801.jpg,The defect that can be seen from the road is that the road marking is faded.,"No
+"
+front_pano_000020_002802.jpg,"Based on the image, the defect that can be seen from the road is poor visibility due to fog or heavy mist.","No
+
+The only things visible on the road are lane markings and what appear to be water droplets from rain. There are no clearly visible obstructions like potholes or debris.
+"
+front_pano_000020_002803.jpg,"From the road, it appears there is reduced visibility, possibly due to smoke.","No
+"
+front_pano_000020_002804.jpg,"From the road, it appears there is heavy fog.","No
+
+Justification: While there is heavy fog obscuring the road, there are no visible obstructions like potholes, debris, or roadkill that can be identified.
+"
+front_pano_000020_002805.jpg,The road defect that can be seen in the image is fog.,"No
+
+The fog obscures the road surface, making it difficult to identify any specific obstructions.
+"
+front_pano_000020_002806.jpg,The road appears to have some cracking.,"Yes
+
+The road surface appears to have some cracking, which could be considered an obstruction.
+"
+front_pano_000020_002807.jpg,The defect that can be seen from the road is fog.,"Yes
+"
+front_pano_000020_002809.jpg,Pothole.,"Yes
+A large rectangular object is visible on the road in front of the truck."
+front_pano_000020_002810.jpg,The road defect that can be seen in the image is **fog**.,"Yes
+
+The image shows water spray or residue on the road surface, which could be considered an obstruction. It is also possible that potholes or cracks are present in the road surface but obscured by the water spray.
+"
+front_pano_000020_002811.jpg,The defect that can be seen from the road is heavy fog.,"No
+
+The image shows a clear road ahead, even with the fog. There are no visible obstructions on the road surface itself.
+"
+front_pano_000020_002812.jpg,The road has a defect - a pothole. You can see it in the center of the road.,"Yes
+The pothole in the center of the road is an obstruction.
+"
+front_pano_000020_002813.jpg,There is fog on the road.,"No
+"
+front_pano_000020_002814.jpg,The defect visible from the road is a pothole.,"Yes
+
+There is a pothole."
+front_pano_000020_002815.jpg,"The image shows heavy fog, which is a road hazard.","No
+The road is wet, and the fog obscures the view, but there are no clearly visible obstructions."
+front_pano_000020_002816.jpg,There appears to be a large area of fog obscuring visibility down the road.,No
+front_pano_000020_002817.jpg,The defect that can be seen from the road is reduced visibility due to fog or mist.,"Yes
+"
+front_pano_000020_002818.jpg,"Based on the image, I can see a pothole in the road surface.","Yes
+The image shows potholes and debris on the road.
+"
+front_pano_000020_002819.jpg,"The road appears to have significant water accumulation, creating a hazard for drivers.","No
+"
+front_pano_000020_002827.jpg,The defect that I can see from the road is the fog.,"No
+"
+front_pano_000020_002828.jpg,The road has faded lane markings.,"No
+The road appears clear of any visible obstructions."
+front_pano_000020_002829.jpg,There appears to be a large amount of smoke on the road.,"Yes
+"
+front_pano_000020_002830.jpg,The defect visible from the road is fog or mist obscuring the view.,No
+front_pano_000020_002831.jpg,"It appears there is excessive fog or mist obscuring the road ahead. This significantly reduces visibility, posing a potential hazard for drivers.","No
+
+Justification: The road surface is obscured by fog, but I don't see any visible obstructions directly on the road.
+"
+front_pano_000020_002839.jpg,The defect that can be seen from the road is poor visibility due to fog.,"No
+"
+front_pano_000020_002840.jpg,"Based on the image and the crops, the defect that can be seen from the road is poor visibility due to thick fog or smoke.","No
+
+The only potential obstruction is the truck ahead, but it's driving on the road and not an obstruction in the sense of a hazard or something blocking the roadway. The fog obscures the view but isn't a physical obstruction."
+front_pano_000020_002843.jpg,The defect that can be seen from the road is smoke.,"No
+"
+front_pano_000020_002844.jpg,There is a streetlight with a broken light.,"No
+"
+front_pano_000020_002853.jpg,"Based on the image, I can see spalling concrete on the bridge's structure.","No
+"
+front_pano_000020_002854.jpg,There is a crack on the roof of the underpass.,"Yes
+The image shows what appears to be debris or a dark patch on the road.
+"
+front_pano_000020_002855.jpg,"Based on the image, the defect that can be seen from the road is a ""pothole"". You can observe the road surface in front of the vehicle and observe those dark marks on the road.","Yes
+
+The dark marks on the road surface appear to be an obstruction.
+"
+front_pano_000020_002856.jpg,"Based on the image, the defect that can be seen from the road is smoke billowing from the road.","Yes
+The image shows haze or smoke on the road surface, which can be considered an obstruction to visibility."
+front_pano_000020_002857.jpg,"From the road, a defect that can be seen is a broken or damaged guardrail. This is visible on the left side of the road, next to the ""P"" sign.","No
+"
+front_pano_000020_002858.jpg,The ladder on top of the car is not properly secured.,"Yes
+"
+front_pano_000020_002859.jpg,There appears to be a lot of water or spray obscuring the view in front of the car. This dramatically reduces visibility and can be a major safety hazard.,"No
+"
+front_pano_000020_002860.jpg,The road lines are faded.,"Yes
+"
+front_pano_000020_002861.jpg,"From the image, a defect that is visible from the road is the **cracked or damaged road surface**. It can be seen between the vehicle and the truck in the distance.","Yes
+The road surface appears to have debris or cracks in it in the image."
+front_pano_000020_002862.jpg,There is a patch of missing road markings on the right side of the road.,"Yes
+"
+front_pano_000020_002863.jpg,"Based on the image, it appears there is a plume of smoke or steam coming from the side of the road. This would be a defect that can be seen from the road.","Yes
+
+There appears to be some debris or water on the road surface in front of the vehicle.
+"
+front_pano_000020_002864.jpg,"Based on the image, the defect that can be seen from the road is the heavy smoke or fog obscuring the view ahead. It significantly reduces visibility, making it dangerous to drive.","Yes
+"
+front_pano_000020_002865.jpg,"It's difficult to determine a specific ""defect"" from the road in this image due to the heavy rain obstructing the view. The poor visibility in itself can be a defect in terms of driving conditions. The large cloud of water also obscures the vehicles and objects.","No
+
+The water obscures the road, but it doesn't appear to be a physical obstruction.
+"
+front_pano_000020_002866.jpg,The visible defect from the road is a broken highway sign.,"Yes
+The road surface is obstructed by spray from another vehicle."
+front_pano_000020_002867.jpg,"From the road, I can see that the road markings are worn/faded.","Yes
+There are some black streaks or spots and rectangular markings on the road."
+front_pano_000020_002868.jpg,The defect that can be seen from the road is the presence of fog.,"Yes
+
+The image is obscured by what appears to be water on the camera lens and/or road spray, but clear to see there are obstructions visible on the road surface .
+"
+front_pano_000020_002869.jpg,"From the road, a defect that can be seen is the obstructed visibility due to fog or haze.","Yes
+"
+front_pano_000020_002870.jpg,"Based on the image, the most apparent defect is the presence of fog on the road. This is causing reduced visibility.","No
+"
+front_pano_000020_002871.jpg,The image shows a possible broken guard rail on the side of the road.,"No
+"
+front_pano_000020_002872.jpg,"The defect that can be seen from the road is poor visibility, possibly due to fog or heavy rain.","No
+
+There could be debris, but the visibility is too poor to clearly identify anything as a road surface obstruction.
+"
+front_pano_000020_002873.jpg,The defect that can be seen from the road is heavy smoke.,"Yes
+"
+front_pano_000020_002884.jpg,The road is showing signs of fog.,"No
+
+The image is obscured by fog and motion blur."
+front_pano_000020_002910.jpg,"The defect that I can see from the road is poor visibility, due to fog or smoke.","No
+
+The road surface appears clear and without obstructions, although the fog obscures vision."
+front_pano_000020_002911.jpg,The road defect that can be seen is **delamination**.,"Yes
+"
+front_pano_000020_002912.jpg,The main defect visible is poor visibility due to heavy fog or smoke.,"No
+"
+front_pano_000020_002920.jpg,"Based on the image, the most prominent defect visible from the road is the heavy fog or smoke obscuring visibility.","No
+
+The image quality is poor due to the fog/smoke, but there are no clearly visible obstructions on the road surface itself.
+"
+front_pano_000020_002922.jpg,"The most apparent defect visible from the road is the heavy smoke obscuring the view. This significantly reduces visibility, posing a safety hazard for drivers.","No
+
+The obstruction in the road is smoke, which obscures vision."
+front_pano_000020_002923.jpg,There is a significant amount of smoke obscuring the road ahead.,"No
+"
+front_pano_000020_002924.jpg,The defect that can be seen from the road is smoke.,"Yes
+The image shows a truck and another car on the road."
+front_pano_000020_002925.jpg,"From the road, the visible defect is smoke. It appears to be obscuring the road ahead.","Yes
+"
+front_pano_000020_002927.jpg,There is smoke on the road.,"No
+"
+front_pano_000020_002930.jpg,The defect visible from the road is excessive smoke.,"No
+"
+front_pano_000020_002931.jpg,The defect that can be seen from the road is the thick smoke obscuring the car.,"Yes
+"
+front_pano_000020_002932.jpg,"It appears there is a lot of smoke on the road, which is a potential hazard.","No
+"
+front_pano_000020_002933.jpg,The defect that can be seen from the road is an accident involving a car.,"Yes
+
+The road surface has visible lines, potentially indicating lane markings. Also, there appear to be shadows or debris on the road that could be considered obstructions.
+"
+front_pano_000020_002934.jpg,There is smoke on the road.,"Yes
+"
+front_pano_000020_002935.jpg,"Based on the image, the defect visible from the road is the smoke, which is potentially caused by a fire.","Yes
+There is something like a wire laying across the road ahead."
+front_pano_000020_002936.jpg,"Based on the image, the most obvious defect is the large amount of smoke obscuring the road ahead.  This creates a visibility hazard.","Yes
+"
+front_pano_000020_002937.jpg,"Based on the image, the defect that is apparent from the road is the heavy smoke obstructing the road ahead. This smoke could be caused by a fire.","Yes
+There is what seems like road marking equipment in the center of the lanes, which could be considered an obstruction."
+front_pano_000020_002938.jpg,There is a broken light pole lying across the road.,"Yes
+
+The broken light pole is obstructing the road.
+"
+front_pano_000020_002939.jpg,The defect is heavy fog.,"Yes
+The white lines are damaged, which is a road surface issue."
+front_pano_000020_002940.jpg,There is a large cloud of smoke on the road.,"No
+"
+front_pano_000020_002941.jpg,The road is very foggy.,"No
+"
+front_pano_000020_002942.jpg,"From the road, the defect that I can see is the fog.","Yes
+"
+front_pano_000020_002943.jpg,There is a pothole in the road.,"Yes
+"
+front_pano_000020_002944.jpg,"From the road, I can see road surface damage.","Yes
+There appears to be an obstruction on the road surface."
+front_pano_000020_002945.jpg,"Based on the image, there is a pothole in the road.","Yes
+There is a large truck ahead."
+front_pano_000020_002946.jpg,The road has fog on it.,"Yes
+
+The image shows a road surface with an obstruction caused by fog.
+"
+front_pano_000020_002947.jpg,The road has missing road markings.,"No
+
+The road appears to be clear of obstructions, though visibility is reduced by rain or fog.
+"
+front_pano_000020_002948.jpg,There is a road sign on the left that warns of a junction where traffic merges from the left.,"No
+"
+front_pano_000020_002949.jpg,The road has water damage/potholes.,"Yes
+"
+front_pano_000020_002950.jpg,The road has very poor visibility due to heavy fog.,"No
+"
+front_pano_000020_002951.jpg,"From the road, I can see fog.","No
+
+There are no visible potholes, cracks or debris."
+front_pano_000020_002952.jpg,There is damage to the guardrail on the left side of the road.,"No
+"
+front_pano_000020_002953.jpg,Visibility is severely limited by fog.,"No
+"
+front_pano_000020_002954.jpg,"Based on the image, the defect I can see from the road is a large cloud of smoke or fog obscuring visibility further down the road.","Yes
+"
+front_pano_000020_002955.jpg,The defect that can be seen from the road is the arrow sign.,"No
+
+The image is heavily obscured by what appears to be rain or fog, but there are no clearly visible obstructions on the road surface itself.
+"
+front_pano_000020_002958.jpg,"The defect visible from the road is road surface deterioration, specifically the potholes on the left side of the road.","Yes
+
+The potholes are obstructions.
+"
+front_pano_000020_002959.jpg,"Based on the image, the main defect visible from the road is heavy smoke or fog obscuring visibility. It's significantly reducing the view of the road ahead.","No
+
+The image shows a clear road surface with lane markings, but no clearly identifiable obstructions. The visible issues are related to the weather conditions."
+front_pano_000020_002960.jpg,It is difficult to identify the defect confidently due to the heavy rain distorting the visibility on the road.,"Yes
+
+Heavy rain is distorting visibility."
+front_pano_000020_002961.jpg,"It appears there is a broken or damaged street light on the left side of the road. Its illumination component appears to be malfunctioning or shattered, indicated by the scattered bright white pixels surrounding it.","No
+
+There is some water or debris on the road, but no clear obstructions.
+"
+front_pano_000020_002962.jpg,The defect I can see from the road is a pothole.,"Yes
+"
+front_pano_000020_002963.jpg,The defect I can see from the road in the image is a broken street light on the left side.,"Yes
+The road surface appears wet, and there may be some puddles causing reflections and potential hydroplaning hazards.
+"
+front_pano_000020_002964.jpg,"Based on the image, there is a broken or damaged streetlight on the left side of the road. It seems to be bent or missing a portion of its upper section.","No
+
+There are possible puddles on the road, but they don't appear to be major obstructions. The markings and lanes are also visible.
+"
+front_pano_000020_002966.jpg,"From the road, it looks like there's missing road paint. Specifically, the large arrow marking appears incomplete.","Yes
+The image shows a large patch or blemish on the road surface in the middle of the lane."
+front_pano_000020_002967.jpg,There are faded road markings.,"No
+"
+front_pano_000020_002968.jpg,The road marking is damaged.,"Yes
+
+The water on the road surface is an obstruction."
+front_pano_000020_002969.jpg,The road has cracked road markings.,"Yes
+The cracks in the road markings could be considered obstructions."
+front_pano_000020_002970.jpg,The road defect I can see is road markings that are faded.,"Yes
+The road appears wet, and there's something interfering with the camera in the foreground."
+front_pano_000020_002971.jpg,The road markings are faded.,"Yes
+The road is wet and there are some reflections. Also, there are other vehicles on the road."
+front_pano_000020_002972.jpg,The road has faded lane markings.,"No
+"
+front_pano_000020_002973.jpg,"There appears to be a crack in the road, visible on the left side of the road.","Yes
+
+The road has some noticeable cracks and other irregularities."
+front_pano_000020_002974.jpg,"From the road, one can see cracks in the road surface.","No
+
+The image is partially obscured by fog or rain, but there are no clearly visible objects obstructing the road surface.
+"
+front_pano_000020_002975.jpg,"From the road, I can see the faded road markings.","Yes
+The image appears to show something on the road that could be an obstruction, located ahead on the left side of the lane.
+"
+front_pano_000020_002976.jpg,The road markings on the left show wear and tear.,"No
+"
+front_pano_000020_002977.jpg,"There appears to be a crack or some damage on the road. It looks like a reflective, light-colored streak running along the lane.","Yes
+"
+front_pano_000020_002978.jpg,The road marking is faded.,"No
+
+The road appears clear of obstructions, although visibility is reduced due to rain or spray.
+"
+front_pano_000020_002979.jpg,"Based on the image, there appears to be debris on the road. It's difficult to pinpoint the exact nature of the debris, but there are dark patches and lines visible on the road surface ahead.
+","Yes
+
+There appear to be dark patches and lines visible on the road surface ahead, suggesting the presence of debris.
+"
+front_pano_000020_002980.jpg,"From the image, I can see cracks and damage on the road surface.","Yes
+The image clearly shows debris and damage on the road."
+front_pano_000020_002981.jpg,There appears to be fog on the road.,"Yes
+
+The white lines on the road are faded."
+front_pano_000020_002982.jpg,"From the road, the defect I can see is broken or faded lane markings.","No
+"
+front_pano_000020_002983.jpg,The defect that can be seen from the road is fog.,"Yes
+
+The road has lane markings and the presence of vehicles in the distance."
+front_pano_000020_002984.jpg,"Based on the image, the defect that can be seen from the road is faded road markings.","Yes
+
+The obstructions visible on the road surface in this image includes water on the road and faded road marking."
+front_pano_000020_002985.jpg,"From the road, a defect that can be seen is the missing or damaged road markings.","No
+
+The road surface appears wet but free of obstructions. The visual artifact in the middle is AI generated.
+"
+front_pano_000020_002986.jpg,"Based on the image, I can see road puddles on the road.","Yes
+
+Puddles on the road can be considered obstructions, especially as they can affect traction and visibility.
+"
+front_pano_000020_002987.jpg,"From the image, I can see a cracked road surface.","Yes
+
+There is an object on the road surface.
+"
+front_pano_000020_002988.jpg,The road defect that can be seen is cracks.,"No
+
+The road surface appears to be clear of obstructions, though there is a lot of water or spray.
+"
+front_pano_000020_002989.jpg,"From the road, the defect that is visible is the **fog**. The fog is heavy enough to obscure the road and surrounding environment.","No
+
+The image does not show any clear obstructions on the road surface. While visibility is reduced due to fog, the road itself appears clear in the areas that are visible."
+front_pano_000020_002990.jpg,It appears there is fog on the right side of the road.,"Yes
+The road has some puddles of water on it."
+front_pano_000020_002991.jpg,The defect that can be seen from the road is poor visibility due to fog.,"No
+
+The road surface appears clear of obstructions, although visibility is reduced due to fog.
+"
+front_pano_000020_002992.jpg,The defect that can be seen from the road is fog.,"No
+"
+front_pano_000020_003000.jpg,"Based on the image, a significant defect visible from the road is the **dense fog**. This fog significantly reduces visibility, making it difficult to see other vehicles and road hazards.","No
+
+There are no visible obstructions on the road surface in the image. While there is fog obscuring the distance, the road surface that is visible is clear of debris or obstacles.
+"
+front_pano_000020_003001.jpg,There appears to be broken glass or debris scattered on the road ahead.,"Yes
+The road is littered with broken glass or debris.
+"
+front_pano_000020_003007.jpg,The road is covered in fog.,"Yes
+"
+front_pano_000020_003008.jpg,"From the road, a possible defect is a broken or missing road marking.","Yes
+
+There appears to be some debris on the road ahead."
+front_pano_000020_003009.jpg,There are cracks on the road surface.,"Yes
+
+There are some thin dark horizontal lines across the road in the image, which could be debris or other obstructions.
+"
+front_pano_000020_003011.jpg,"The most prominent defect visible from the road is the significant fog, which is reducing visibility.","No
+"
+front_pano_000020_003029.jpg,It appears there is a significant amount of smoke on the right side of the road. This is a defect that could reduce visibility and pose a hazard.,"No
+"
+front_pano_000020_003030.jpg,The road appears to be damaged.,"Yes
+"
+front_pano_000020_003031.jpg,The road has cracks and damage.,"Yes
+"
+front_pano_000020_003032.jpg,"Based on the image and the provided crops, it appears there's damage or a defect to the overhead sign structure. The white outlines indicate areas where the structure looks broken or missing pieces.","No
+
+The road surface appears clear of obstructions, though visibility is limited by weather conditions.
+"
+front_pano_000020_003033.jpg,The road has a damaged traffic light on the right.,"No
+"
+front_pano_000020_003034.jpg,"Based on the images, the defect that can be seen from the road is **rain or water droplets on the windshield** causing visibility issues. The area within the white lines in the original image has a lot of rain.","Yes
+"
+front_pano_000020_003035.jpg,"There is a lot of fog, which significantly reduces visibility on the road.","No
+"
+front_pano_000020_003036.jpg,"From the road, it's possible to see smoke or fog reducing visibility.","No
+"
+front_pano_000020_003037.jpg,"From the road, it looks like the road markings are worn or damaged.","Yes
+The image shows some areas of the road surface that appear to be obscured or potentially damaged, which could be considered obstructions.
+"
+front_pano_000020_003045.jpg,"From the road, the defect that can be seen is the fog.","No
+"
+front_pano_000020_003046.jpg,The road surface has cracks.,"Yes
+The road surface has cracks."
+front_pano_000020_003047.jpg,"From the road, the defect that is visible is the presence of smoke.","No
+The image depicts a clear road surface without visible obstructions."
+front_pano_000020_003048.jpg,There is trash on the side of the road.,"Yes
+"
+front_pano_000020_003049.jpg,"Based on the image, it appears there are faded lane markings on the road.","No
+
+The image doesn't show any clear physical obstructions on the road surface, such as debris or potholes.
+"
+front_pano_000020_003050.jpg,"Based on the image, I can see a pothole in the road.","Yes
+
+There are several objects lying on the road.
+"
+front_pano_000020_003051.jpg,"The image shows a significant amount of fog or smoke, which is a defect affecting visibility on the road.","No
+"
+front_pano_000020_003059.jpg,"The road is covered in fog, which can be considered a defect as it significantly impairs visibility and makes driving dangerous.","No
+"
+front_pano_000020_003060.jpg,The road has poor visibility.,"No
+"
+front_pano_000020_003073.jpg,The road has poor visibility due to heavy fog or smoke.,"No
+"
+front_pano_000020_003074.jpg,"From the image, a defect that can be seen from the road is the faded road markings. The white lines separating the lanes appear worn and unclear. Additionally, the presence of fog or mist reduces visibility, which can be considered a safety defect related to the road environment.","No
+
+Justification: The road surface appears clear of any visible obstructions like potholes, debris, or standing water from the perspective of the image. The vehicle on the road ahead is not an obstruction on the road surface.
+"
+front_pano_000020_003075.jpg,It appears that the road has broken lane markings.,"No
+"
+front_pano_000020_003076.jpg,"From the road, I can see that visibility is severely reduced due to dense fog or mist.","No
+
+The visibility is poor due to fog, but there are no clearly visible obstructions.
+"
+front_pano_000020_003077.jpg,The signal light is broken.,"No
+"
+front_pano_000020_003078.jpg,I can see a crack in the road.,"Yes
+
+The presence of moisture and a potential crack visible on the road surface.
+"
+front_pano_000020_003079.jpg,There appears to be water on the windshield. This obstructs the view and is a defect.,"No
+
+The obstructions mentioned in the last response were referring to the windshield of the car, not the road surface."
+front_pano_000020_003083.jpg,I can see that the road lines are faded.,"No
+"
+front_pano_000020_003084.jpg,The defect I can see from the road is poor visibility due to fog or heavy rain.,"No
+
+The road surface appears clear, with no visible obstructions like potholes, debris, or animals.
+"
+front_pano_000020_003085.jpg,"From the road, I can see that the lane marking on the right side of the road is discontinuous.","No
+There is no obstruction on the road surface."
+front_pano_000020_003086.jpg,The road lines are faded or missing in some areas.,"No
+"
+front_pano_000020_003087.jpg,The road marking is faded and needs to be repainted.,"No
+
+The image is very blurry due to the fog or rain, and there are no clearly visible obstructions.
+"
+front_pano_000020_003088.jpg,The defect that can be seen from the road is a pothole. The road ahead has some minor defects and there is one major pothole in particular.,"Yes
+"
+front_pano_000020_003089.jpg,The defect that can be seen from the road is poor visibility due to heavy fog.,"No
+"
+front_pano_000020_003090.jpg,"It is hard to tell with certainty due to the image quality, but based on the image, there appears to be a **crack in the road** visible in the center lane.","Yes
+The road appears to be wet, but that isn't necessarily an obstruction. However, the road is obscured by mist on the right."
+front_pano_000020_003091.jpg,"From the image, the road defect that is visible is the **cracks in the road surface**, the outlined crack is on the right and close to the central line. It is more evident due to the overlay.","Yes
+"
+front_pano_000020_003092.jpg,The road defect that is visible is the fog.,"No
+"
+front_pano_000020_003093.jpg,The road marking lines appear faded.,"No
+
+The road surface appears clear of obstructions, although there are some faded road marking lines.
+"
+front_pano_000020_003094.jpg,"There appears to be a crack in the road surface on the right-hand side of the image. Also, the image has some artificial defects due to the image acquisition or processing.","No
+"
+front_pano_000020_003097.jpg,The defect visible from the road is heavy fog obscuring the view.,"Yes
+"
+front_pano_000020_003098.jpg,The road has broken lane markings.,"No
+
+The road surface is visible and clear of any immediately apparent obstructions.
+"
+front_pano_000020_003099.jpg,"The defect visible from the road is a **pothole** or **road surface damage**. It is marked by a white box in the image, and looks like a patch that has been laid over the road.","Yes
+
+The image clearly shows a pothole or area of damaged road surface, which is an obstruction on the road surface."
+front_pano_000020_003100.jpg,"Based on the images, the defect that can be seen from the road is poor visibility due to fog.","No
+The road surface is visible but obscured by fog. There are no visible obstructions."
+front_pano_000020_003101.jpg,The defect that can be seen from the road is a fog.,"Yes
+The white markings are worn and fading."
+front_pano_000020_003102.jpg,The defect that can be seen from the road is a crack in the asphalt.,"No
+"
+front_pano_000020_003103.jpg,It appears that there are faded or missing road markings in the center of the road.,"Yes
+
+The road is obscured by a significant amount of mist."
+front_pano_000020_003104.jpg,There are cracks on the road.,"Yes
+There appears to be an obstruction on the road surface, possibly debris or an object, slightly ahead of the vehicle's position.
+"
+front_pano_000020_003105.jpg,There's heavy fog or smoke obscuring the road ahead. This significantly reduces visibility and is a major safety defect.,"No
+The road surface is visible but obscured by fog. There do not appear to be any obstructions on the surface."
+front_pano_000020_003106.jpg,There is a significant amount of fog in the distance.,"No
+"
+front_pano_000020_003107.jpg,"There is a crack or some other kind of damage on the windshield of the vehicle, as shown by the distortion or line across the middle of the image.","No
+
+Justification: The road surface appears clear and free of any obstructions. The lines on the road are visible and there are no obvious signs of potholes or debris."
+front_pano_000020_003108.jpg,"There appears to be a water leak or burst water main visible in the trees on the left side of the road. It is creating a tall, white plume.","Yes
+The water on the windscreen is causing an obstruction to visibility of the road surface."
+front_pano_000020_003118.jpg,"The most prominent defect visible from the road in the image is the presence of fog. The fog significantly reduces visibility, which is a major safety concern for drivers.","No
+
+The road surface itself appears clear.
+"
+front_pano_000020_003136.jpg,The road defect that can be seen is fog.,"No
+"
+front_pano_000020_003137.jpg,"Based on the image, the defect that can be seen from the road is poor visibility due to fog or mist.","No
+
+The road surface appears to be clear of obstructions, though partially obscured by moisture or spray.
+"
+front_pano_000020_003138.jpg,The defect that can be seen from the road is a water spot or mark on the camera lens. It's a prominent smudge distorting the view ahead.,"No
+"
+front_pano_000020_003139.jpg,Visibility is severely reduced by fog.,"No
+"
+front_pano_000020_003140.jpg,The road has fog.,"No
+
+The image is very hazy, making it difficult to discern details on the road surface itself. The fog obscures the view.
+"
+front_pano_000020_003141.jpg,The defect visible from the road is reduced visibility due to the fog or smoke.,"No
+"
+front_pano_000020_003154.jpg,The road has missing/worn lane markings.,No
+front_pano_000020_003155.jpg,"It is difficult to determine the exact defect due to the heavy fog obscuring the view. However, the fog itself represents a significant hazard or defect, as it drastically reduces visibility and increases the risk of accidents.","No
+"
+front_pano_000020_003156.jpg,The defect is black smoke obscuring visibility on the road.,"No
+"
+front_pano_000020_003157.jpg,The road markings are worn out.,"No
+"
+front_pano_000020_003167.jpg,"Based on the image, the defect that can be seen from the road is:
+
+Smoke","No
+
+The view is obscured by smoke, making it difficult to see any road surface obstructions clearly.
+"
+front_pano_000020_003168.jpg,The road defect that can be seen from the road is poor visibility. There is a lot of fog in the distance that obscures the view of the road ahead.,"Yes
+
+Justification: There appears to be a dark, blurry obstruction on the road in the right lane, possibly another vehicle or object that is obscured by the fog/mist.
+"
+front_pano_000020_003169.jpg,The defect that can be seen from the road is the presence of smoke obscuring the view of the vehicles ahead.,"No
+"
+front_pano_000020_003170.jpg,"From the road, it appears there is excessive smoke or fog, reducing visibility.","No
+"
+front_pano_000020_003171.jpg,"Based on the image, the defect that can be seen from the road is fog, which is obscuring visibility.","No
+
+The only obstruction visible appears to be fog reducing visibility. The road surface itself looks clear of debris.
+"
+front_pano_000020_003172.jpg,"From the road, a defect that can be seen is the missing or faded lane markings.","No
+
+The haze obscures details, but I don't see definitive evidence of physical obstructions.
+"
+front_pano_000020_003182.jpg,"Based on the image, there is smoke or fog on the road. This obscures visibility and could be considered a road defect.","Yes
+"
+front_pano_000020_003183.jpg,Heavy fog is causing reduced visibility.,"No
+"
+front_pano_000020_003184.jpg,The road marking has damage.,"Yes
+"
+front_pano_000020_003185.jpg,The road markings are faded.,"No
+
+There's no visible obstruction on the road. The road markings are worn, but they are not obstructions."
+front_pano_000020_003186.jpg,"In the original image, there appears to be a significant amount of dirt or debris on the camera lens, obscuring the right side of the view from the road. This obstruction would definitely be considered a defect noticeable from the road while viewing the scene through the camera.","No
+
+The road surface itself appears to be clear of major obstructions despite the poor visibility caused by the dirt/debris on the camera."
+front_pano_000020_003187.jpg,The road appears to be in poor condition and may have potholes.,"No
+
+The image is blurry, but I do not see any explicit obstructions like debris or animals on the road.
+"
+front_pano_000020_003188.jpg,It is difficult to determine any specific road defects from this image. The thick fog and the objects on the car's roof obstruct the view of the road surface.,"Yes
+
+The fog significantly obstructs the view of the road surface, making it difficult to see clearly."
+front_pano_000020_003197.jpg,There's a lot of smoke obstructing the road.,"No
+"
+front_pano_000020_003198.jpg,The defect that I can see from the road is fog.,"No
+"
+front_pano_000020_003199.jpg,"Based on the image, the defect that can be seen from the road is the pothole.","Yes
+"
+front_pano_000020_003200.jpg,"From the road, I can see some potholes.","Yes
+
+There are some potholes visible on the road surface near the left lane.
+"
+front_pano_000020_003201.jpg,"Based on the image, I can see a heavy fog or mist in the distance. This is a defect because it severely limits visibility on the road, which is a safety hazard.","No
+
+The image appears to show a clear road surface, although visibility is limited due to fog/mist.
+"
+front_pano_000020_003202.jpg,"There is an excessive amount of smoke visible from the road, possibly caused by a fire or an accident.","No
+"
+front_pano_000020_003203.jpg,The road has fog.,"No
+"
+front_pano_000020_003213.jpg,A person is outside of their car on the side of the road.,"Yes
+"
+front_pano_000020_003214.jpg,"There's a car pulled over on the side of the road, which is a potential hazard or defect in the sense that it could cause a collision or traffic disruption.","Yes
+"
+front_pano_000020_003215.jpg,"There appears to be a significant crack in the concrete of the road near the edge, in the lane to the left of the vehicle.","Yes
+
+The road surface appears to be wet, but there are no readily visible obstructions on the road."
+front_pano_000020_003216.jpg,"Based on the image, the truck on the left has a tire blowout, creating a cloud of debris.","Yes
+The truck on the left has had a tire blowout, leaving debris on the road.
+"
+front_pano_000020_003217.jpg,"From the road, you can see a black cloud obscuring the right side of the image.","No
+"
+front_pano_000020_003218.jpg,"From the road, I can see a cloud of smoke obscuring the vehicles in the right lane. This is a potential hazard and could be considered a defect in road conditions.","No
+"
+front_pano_000020_003228.jpg,"From the road, I can see a defect in the road markings: they appear to be faded or worn.","No
+"
+front_pano_000020_003229.jpg,"From the road, the defect I can see is the faded road markings. The white lines and arrows on the road are worn and difficult to see clearly.","No
+
+The road appears to be clear of obstructions.
+"
+front_pano_000020_003230.jpg,"From the road, one can see that the road markings are faded.",No
+front_pano_000020_003231.jpg,The road marking is worn out.,"Yes
+
+The image appears to show water or a damp patch on the road surface in front of the vehicle.
+"
+front_pano_000020_003232.jpg,The road markings are worn.,"No
+
+The road surface appears to be wet but clear of any visible obstructions.
+"
+front_pano_000020_003233.jpg,"Based on the image, the defect visible from the road is worn road markings. Specifically, the white lines and chevrons are faded and not very clear.","No
+
+The main obstruction to visibility is fog or rain. While the road surface might have some irregularities, there are no distinct objects clearly obstructing the path.
+"
+front_pano_000020_003243.jpg,The road appears to be damaged with potholes or uneven surfacing.,"Yes
+
+The image shows what appears to be a truck ahead and several other vehicles behind it, which can be considered obstructions on the road.
+"
+front_pano_000020_003244.jpg,"It's difficult to definitively assess road defects with the image quality and visibility conditions. However, I see that the white lane markers are worn and need repainting.","No
+
+The visibility is poor due to rain or fog, but I cannot discern any specific obstructions on the road surface from the available image.
+"
+front_pano_000020_003245.jpg,The road markings are faded or missing in some areas.,"No
+"
+front_pano_000020_003246.jpg,"It's very difficult to see clearly due to the rain or fog, but it appears there is a crack or some damage on the windshield of the car, potentially obscuring the view.
+","Yes
+"
+front_pano_000020_003247.jpg,There's a pothole in the road.,"Yes
+The road ahead is obscured, but what appears to be a pothole is visible directly in front of the camera."
+front_pano_000020_003248.jpg,"Based on the image, there appears to be a significant amount of smoke present on the road ahead. This would be considered a defect that is visible from the road and could pose a hazard to drivers.","Yes
+
+The image shows a road with potential obstructions like other vehicles and possibly debris due to the presence of smoke."
+front_pano_000020_003249.jpg,The sign on the left has some damage.,"No
+"
+front_pano_000020_003259.jpg,"Based on the image, the defect that can be seen from the road is poor visibility due to heavy rain or fog.","No
+
+The image shows a relatively clear road surface. The obstruction being caused by the weather is not a physical obstruction."
+front_pano_000020_003260.jpg,"It's difficult to say definitively due to the poor visibility, but the most prominent defect I can see is the very heavy mist or fog ahead on the road. This significantly reduces visibility and could be considered a hazardous condition.","Yes
+"
+front_pano_000020_003261.jpg,The road has a crack in it.,"Yes
+"
+front_pano_000020_003262.jpg,The road has fog.,"No
+"
+front_pano_000020_003263.jpg,"From the road, it appears the road markings are faded.","No
+
+The image shows a clear road ahead, with other vehicles visible in the distance. There are no apparent obstructions on the road surface in the immediate view.
+"
+front_pano_000020_003290.jpg,"Based on the image, the defect that can be seen from the road is **poor visibility due to heavy rain or fog**. The image is obscured by a grey mist making it difficult to see the road and surroundings clearly.","No
+"
+front_pano_000020_003291.jpg,"From the road, I can see that the road sign on the right side of the road has some damage or is peeling. It looks like some of the reflective material is missing.","No
+
+The road surface appears to be clear of obstructions.
+"
+front_pano_000020_003292.jpg,"From the road, the defect that can be seen is poor visibility. There is heavy fog or mist obstructing the view ahead, making it difficult to see other vehicles or objects on the road.","No
+"
+front_pano_000020_003293.jpg,The road has some fog on the right.,"No
+"
+front_pano_000020_003294.jpg,The road marking is worn.,"No
+There is no visible obstruction on the road."
+front_pano_000020_003295.jpg,The image shows a cracked windshield.,"No
+
+The road surface appears to be clear of obstructions.
+"
+front_pano_000020_003304.jpg,"Based on the image, there appears to be a broken or damaged lamp post on the right side of the road. It's difficult to determine the exact nature of the damage due to the fog or rain obscuring the view, but the lamp post appears to be bent or broken.","No
+
+The primary focus seems to be on the water obstructing the view and the bent lamp post.
+"
+front_pano_000020_003305.jpg,There is a crack on the windshield.,"No
+
+The road surface appears clear of obstructions in the provided image."
+front_pano_000020_003306.jpg,"From the road, it appears the street lights are broken or not functioning properly. This is evident from the white, almost pixelated areas on the right side of the image, where the streetlights should be emitting light but are instead showing a distorted appearance.","No
+
+The road surface appears clear of obstructions, although the overall visibility is reduced due to weather conditions.
+"
+front_pano_000020_003307.jpg,There appears to be fog on the road ahead.,"No
+
+There is no visible object or other types of obstruction on the road surface in this image."
+front_pano_000020_003308.jpg,There appears to be road damage or a repair patch visible on the road ahead.,"Yes
+"
+front_pano_000020_003309.jpg,"Based on the image, there is a glitch artifacting present in the image.","No
+"
+front_pano_000020_003310.jpg,The road surface has cracks or potholes that are visible.,"No
+"
+front_pano_000020_003320.jpg,"It's difficult to be certain due to the weather conditions obscuring the view, but it appears there's possible road damage, specifically cracking or potholes, visible on the right-hand lane of the road. The visibility is severely reduced due to rain or a dirty windshield.","Yes
+
+The visibility is reduced by the weather conditions, but there's something that looks like debris or an obstruction on the road ahead.
+"
+front_pano_000020_003321.jpg,There is a defective or missing sign on the right side of the road.,"No
+"
+front_pano_000020_003322.jpg,"There appears to be a large splatter on the windshield, likely a bird strike or other impact, that is significantly obstructing the view.","No
+
+The image quality is poor, and there is a large splash on the windshield which obscures the view. While there is a truck ahead, there are no obvious obstructions visible on the road surface."
+front_pano_000020_003323.jpg,"The image appears to have very low visibility due to heavy rain or fog, which could be considered a defect on the road since it impairs safe driving conditions.","No
+
+The question asks whether the image depicts any obstructions on the road surface. The image is affected by heavy rain/smog, and it makes determining whether any real defects are visible or not.
+"
+front_pano_000020_003324.jpg,"From the road, it's hard to see many defects due to the rain or dirt on the windshield obstructing the view. However, one defect I can make out are the cracks in the road surface, especially the long line cracks running along the road.","Yes
+"
+front_pano_000020_003325.jpg,The defect visible from the road is the broken traffic light.,"No
+"
+front_pano_000020_003335.jpg,"In the provided image, it's difficult to pinpoint a single, definitive defect on the road itself due to the poor visibility and obscured view. However, the road surface appears generally wet, which could be considered a defect in terms of reduced traction and increased risk of accidents.","No
+"
+front_pano_000020_003336.jpg,"There appears to be a cracked windshield, with a notable crack visible in the upper right portion of the frame.","No
+"
+front_pano_000020_003337.jpg,"Based on the image, it's difficult to definitively identify a road defect. However, there appears to be some sort of dark obscured patch near the center of the frame, which could be hiding a pothole or other road imperfection.  It is difficult to tell since the image is very obscured and grainy in this area.","Yes
+
+The obscured patch near the center of the frame could potentially be an obstruction.
+"
+front_pano_000020_003338.jpg,"Based on the images, I can see that the road markings (lane lines) are faded or worn in certain areas. This can be considered a defect as it affects visibility and road safety.","No
+
+There is a car on the road but it is not an obstruction as such.
+"
+front_pano_000020_003339.jpg,"In the image, there is an issue with the road surface. It appears to be heavily covered with water, reducing visibility.","Yes
+
+The image shows a heavy layer of water on the road surface, which obscures the road and can be considered an obstruction to clear visibility and safe driving.
+"
+front_pano_000020_003340.jpg,The defect visible from the road is heavy smoke.,"No
+"
+front_pano_000020_003341.jpg,"From the image, I can see black smoke rising from what appears to be a vehicle on the road ahead. This is a defect that is clearly visible from the road.","No
+
+The road surface itself is visible and free of discernible obstructions, although the weather conditions may obscure some details."
+front_pano_000020_003366.jpg,There appears to be heavy smoke or fog on the road ahead. This significantly reduces visibility and is a major defect affecting road safety.,"No
+
+The road surface is obscured by smoke/fog, but there are no clearly visible obstructions.
+"
+front_pano_000020_003367.jpg,The defect I can see from the road is the fog or smoke.,"No
+The road surface appears clear of obstructions, though visibility is reduced due to fog/smoke."
+front_pano_000020_003368.jpg,The windshield appears to have a scratch or other defect that is causing a streak across the field of view.,"Yes
+"
+front_pano_000020_003369.jpg,The defect that can be seen from the road is fog.,"No
+
+The road surface is visible and there is no indication of obstructions."
+front_pano_000020_003370.jpg,"Based on the images, I can see a lot of fog. This would be considered a road defect as it significantly reduces visibility.","No
+
+The image is obscured by fog, making it difficult to discern fine details on the road surface clearly enough to confidently identify any obstructions.
+"
+front_pano_000020_003371.jpg,"From the road, I can see that the gantry sign has some visual distortion or digital artifacting.","Yes
+The visibility is low due to fog/mist, but there's a truck ahead and potentially other vehicles."
+front_pano_000020_003372.jpg,The defect that can be seen from the road is poor visibility.,"Yes
+
+The road surface appears wet, which could be considered an obstruction to optimal driving conditions.
+"
+front_pano_000020_003381.jpg,"From the road, it appears there is heavy fog.","No
+"
+front_pano_000020_003382.jpg,"The road defect visible is a fog, which is reducing visibility.","No
+"
+front_pano_000020_003383.jpg,The road has poor visibility.,"No
+"
+front_pano_000020_003384.jpg,There is a crack in the road.,"No
+"
+front_pano_000020_003385.jpg,"From the road, I can see road damage.","Yes
+The road surface appears to be wet."
+front_pano_000020_003386.jpg,"From the road, a defect I can see is the damaged/missing sign.","No
+"
+front_pano_000020_003387.jpg,"Visibility is severely reduced, likely due to fog or heavy rain.","No
+"
+front_pano_000020_003397.jpg,The road has a defect - it is cracked on the left side of the road.,"No
+"
+front_pano_000020_003398.jpg,"It is difficult to identify specific road defects with clarity in the image due to the fog and the perspective from the car. The road surface itself appears wet but is generally smooth. There are road markings visible, but they don't seem to be cracked or damaged. It is possible there are subtle potholes or imperfections in the road surface, but they are obscured by the environmental conditions.","No
+"
+front_pano_000020_003399.jpg,"From the road, one can see a defect in the image: there is a digital artifact that looks like a white ""T"" shape, which appears to be a glitch or an error in the image itself rather than a real-world object.
+","No
+"
+front_pano_000020_003400.jpg,The road has been corrupted in the central right.,"No
+"
+front_pano_000020_003401.jpg,"It's difficult to be certain due to the poor visibility, but there is a damaged road sign on the left side of the road.","No
+
+The visibility is poor, and I can't see any definite obstructions on the road.
+"
+front_pano_000020_003402.jpg,"Based on the image, the defect visible from the road is **fog/low visibility**. The presence of fog or mist significantly reduces visibility, making it difficult to see other vehicles, road signs, and potential hazards.","No
+"
+front_pano_000020_003403.jpg,"From the road, a defect I can see is that the road markings are faded.","No
+"
+front_pano_000020_003412.jpg,"From the road, a street light that is malfunctioning is visible. It appears to be flickering or have a broken bulb, as indicated by the bright, disjointed segments.","No
+"
+front_pano_000020_003413.jpg,The white line road markings are faded or missing in sections.,"No
+
+There is a truck in the distance, but it is not an obstruction on the road surface itself.
+"
+front_pano_000020_003414.jpg,There appears to be very thick fog or smoke obstructing visibility on the road.,"No
+"
+front_pano_000020_003415.jpg,"There appears to be a lot of smoke or fog obscuring the road ahead. This significantly reduces visibility, which is a dangerous defect.","No
+The road surface itself looks relatively clear, despite the reduced visibility."
+front_pano_000020_003416.jpg,"From the road, the main visible defect is the heavy fog or smoke obscuring visibility down the road.","No
+"
+front_pano_000020_003417.jpg,The traffic lights are partially obscured or defective.,"No
+"
+front_pano_000020_003428.jpg,"Based on the image, a potential defect that can be observed from the road is a blown tire, as well as severe weather conditions impacting visibility. It is difficult to see in the fog.","No
+
+The image shows rain on the windshield, obstructing the view of the road. The road ahead appears to be wet but clear of any visible obstructions beyond that.
+"
+front_pano_000020_003429.jpg,The defect visible from the road is the extremely low visibility due to heavy fog or mist.,"Yes
+"
+front_pano_000020_003430.jpg,The defect is the dirty windshield.,"No
+The road surface is visible and clear of obstructions."
+front_pano_000020_003431.jpg,"It appears that there's a lane closure ahead, signaled by a temporary speed limit sign. Visibility is significantly impaired due to heavy rain or fog.","No
+
+There are no immediately discernible obstructions on the road surface in the given image. The road appears wet but clear of debris or significant obstacles.
+"
+front_pano_000020_003432.jpg,The defect that can be seen from the road is the dense fog.,"No
+
+The fog does not appear to be an obstruction but rather obscures vision."
+front_pano_000020_003433.jpg,I can see fog on the road.,"No
+"
+front_pano_000020_003443.jpg,The defect that can be seen from the road is fog or heavy rain which obscures visibility.,"No
+
+There are no visible obstructions on the road surface itself. The view is obscured by fog or rain, but no objects can be clearly identified."
+front_pano_000020_003444.jpg,There is smoke in the distance obscuring the road ahead.,"No
+"
+front_pano_000020_003445.jpg,The defect you can see from the road is poor visibility. It is very foggy.,"No
+"
+front_pano_000020_003446.jpg,There is a defect on the road surface.,"No
+
+The image shows a road with vehicles, but no visible obstructions on the road surface itself.
+"
+front_pano_000020_003447.jpg,There is heavy fog obscuring visibility on the road.,"No
+
+There are no visible obstructions on the road surface. The road seems clear, though visibility is severely limited by the fog."
+front_pano_000020_003448.jpg,The defect I can see from the road is poor visibility due to fog.,"No
+
+The road surface appears clear, without visible obstructions."
+front_pano_000020_003449.jpg,The defect I can see from the road is fog.,"No
+"

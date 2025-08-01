@@ -1,0 +1,17 @@
+# Ignore files with project-specific configs
+configs/project.py
+
+# Ignore folders with datasets
+input_all
+output
+syna12-o
+modules/pavement/weights
+
+# Ignore folders with unnecessary files
+jupyter_notebook
+utils
+output_sample/intermediate
+
+# Ignore folder git cloned to the modules sub-folder (and reconnect later as submodule)
+modules/fast3r
+modules/stable-point-aware-3d
