@@ -80,6 +80,20 @@ class Aggregator(vlmCleanQ2):
         read_df.drop(columns=['q1', 'q2'], inplace=True)    # Drop the original columns
         overall_df = pd.concat([overall_df, read_df], ignore_index=True)        # Merge the dataframes
         return overall_df
+
+    def assemble_df_struct(self,
+                           overall_df,
+                           read_df,
+                           folder):
+        # Since the outputs are already in structured format, construct the list of dictionary from the columns
+        read_df.loc[:, 'asset_type'] = folder
+        read_df.drop(columns=['inscope', 'inscope_just'], inplace=True)    # Drop the verification columns
+        read_df.loc[:, 'defects'] = read_df.apply(lambda row: {col: row[col] for col in read_df.columns if col not in ['image', 'asset_type', 'det_just']}, axis=1)
+        read_df.loc[:, 'descriptions'] = read_df['det_just']
+        read_df.drop(columns=[col for col in read_df.columns if col not in ['image', 'asset_type', 'defects', 'descriptions']], inplace=True)
+        overall_df = pd.concat([overall_df, read_df], ignore_index=True)        # Merge the dataframes
+        return overall_df
+    
     
     def is_nan(self, x):
         try:

@@ -3,6 +3,8 @@ import numpy as np
 import json, os
 from pycocotools import mask as cocomask
 import cv2
+import matplotlib
+matplotlib.use("Agg")   # must be before importing pyplot - avoid crash when plotting without display
 import matplotlib.pyplot as plt
 import matplotlib.patches as patches
 import matplotlib as mpl
@@ -191,6 +193,39 @@ def new_plot(image_path, df, category, file_name, plot_RGB=True):
     plt.close(fig)
 
 # -------------------
+# Util for creating empty images and category df
+# -------------------
+
+# Make category df
+def make_category_df(categories):
+    cat_df = pd.DataFrame(categories, columns=['name'])
+    cat_df['category_id'] = cat_df.index + 1
+    cat_df = cat_df[['category_id', 'name']]
+    return cat_df
+
+# Make image df
+def make_image_df(image_list):
+    width_all, height_all, fn_base = [], [], []
+    # assumed the image_list already contains the full path and is already sorted
+    for image_fn in image_list:
+        img = cv2.imread(image_fn)  # use cv2 as the entire workflow is built using cv2
+        height, width = img.shape[:2]
+        width_all.append(width)
+        height_all.append(height)
+        fn_base.append(os.path.basename(image_fn))
+        # with Image.open(image_fn) as img:
+        #     width, height = img.size
+        #     width_all.append(width)
+        #     height_all.append(height)
+        #     fn_base.append(os.path.basename(image_fn))
+    img_df = pd.DataFrame(fn_base, columns=['file_name'])
+    img_df['width'] = width_all
+    img_df['height'] = height_all
+    img_df['id'] = img_df.index + 1
+    img_df = img_df[['id', 'width','height', 'file_name']]
+    return img_df
+
+# -------------------
 # Util for converting between masks and polygons
 # -------------------
 
@@ -324,3 +359,19 @@ def create_json(masks_df, category_list, image_dir, json_name):
 
     with open(json_name, "w") as outfile:
         json.dump(dict_to_json, outfile, cls=NpEncoder)
+
+def mask2df(image_path, masks_image, scores_image, category_list, new_rows):
+    for x, mask in enumerate(masks_image):
+        plygn, area, bbox = mask_to_polygon(mask[0])        # restricted SAM to output 1 mask per centroid
+        if plygn is None or area == 0 or bbox is None:
+            print(f'Some problems with masks in {os.path.basename(image_path)}.')
+            continue    # skip if no mask detected
+        actual_bbox = find_remasked_bbox(mask[0])    # I just want 1 bbox for polygon (not every sub-polygon)
+        new_row = {'image': os.path.basename(image_path),
+                    'category': category_list[0],           # change here if you have >1 categories
+                    'segmentation': plygn,
+                    'area': area,
+                    'bbox': actual_bbox,
+                    'score': scores_image[x][0]}
+        new_rows.append(new_row)
+    return new_rows

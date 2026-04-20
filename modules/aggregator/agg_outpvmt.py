@@ -1,8 +1,8 @@
-import os, glob
+import os, glob, torch
 import pandas as pd
 import config.paths as paths
 from .functions.agg_util import Aggregator
-from .agg_pvmt import agg_pvmt
+from .agg_pvmt import agg_pvmt_ipm
 from datetime import datetime
 
 def agg_outpvmt(
@@ -11,8 +11,11 @@ def agg_outpvmt(
             result_header = 'gemini_result',
             veg_file = paths.detveg_final_fn,
             georef_file = paths.georef_pano,
+            sign_loc_file = os.path.join(paths.output_dir, 'sign_recon/sign_locations_set1.csv'),
+            version = 'set1'
             ):
 
+    device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
     overall_df = pd.DataFrame()
     agg = Aggregator()
     for dir in interested_folders:
@@ -24,21 +27,27 @@ def agg_outpvmt(
             print(f"Processing {os.path.dirname(read_file).split('/')[-1]}/{os.path.basename(read_file)}. Total rows: {len(read_df)}")
             folder = os.path.basename(dir)      # Get the asset type
 
-            overall_df = agg.assemble_df(overall_df, read_df, folder)
+            # overall_df = agg.assemble_df(overall_df, read_df, folder)
+            overall_df = agg.assemble_df_struct(overall_df, read_df, folder)
 
     # Judge verdicts over multiple num_trial by simple majority
     overall_df = agg.majority_df(overall_df)
 
     # Read vegetation data and stick it to the overall_df
-    veg_df = pd.read_csv(veg_file)
-    veg_keep = agg.extract_veg_defects(veg_df)
-    overall_df = pd.concat([overall_df, veg_keep], ignore_index=True)
+    if veg_file is not None:
+        veg_df = pd.read_csv(veg_file)
+        veg_keep = agg.extract_veg_defects(veg_df)
+        overall_df = pd.concat([overall_df, veg_keep], ignore_index=True)
 
-    # Find locations
+    # Find locations of images
     georef_df = pd.read_csv(georef_file)
     overall_df = agg.add_geolocations(overall_df, georef_df)
 
-    overall_df.to_csv(os.path.join(result_dir, 'outpvmt_det.csv'), index=False)
+    # Find locations by asset
+    sign_loc_df = pd.read_csv(sign_loc_file)
+    overall_df = overall_df.merge(sign_loc_df, on='file_name', how='left')
+
+    overall_df.to_csv(os.path.join(result_dir, f'outpvmt_det_{version}.csv'), index=False)
     return overall_df
 
 def run_agg():
@@ -46,7 +55,7 @@ def run_agg():
     _ = agg_outpvmt()
     # end_outpvmt = datetime.now()
     # print(f"Time taken: {end_outpvmt-start}")
-    _ = agg_pvmt()
+    _ = agg_pvmt_ipm()
     # end_pvmt = datetime.now()
     # print(f"Time taken: {end_pvmt-end_outpvmt}")
 
